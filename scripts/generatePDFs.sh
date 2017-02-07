@@ -6,8 +6,8 @@ echo -e "
 \e[39m
 Usage:
 ------
-To generate the Enlgish PDF sheets: \e[36m./generatePDF.sh EN\e[39m
-To generate the German  PDF sheets: \e[36m./generatePDF.sh DE\e[39m
+To generate the Enlgish PDF sheets: \e[36m./generatePDF.sh EN A6\e[39m
+To generate the German  PDF sheets: \e[36m./generatePDF.sh DE A4\e[39m
 
 "
 exit 0
@@ -30,7 +30,7 @@ mkdir -p ../pdf/$1/A6
 
 counter=0
 
-for j in $(echo "./pdf_$1_A4.txt" "./pdf_$1_A6.txt")
+for j in $(echo "./pdf_$1_$2.txt")
  do
  echo j: $j
  for i in $(cat $j)
@@ -62,18 +62,13 @@ for j in $(echo "./pdf_$1_A4.txt" "./pdf_$1_A6.txt")
 
  echo -e "
 
-          my cups-pdf printer is slow, so we wait here 2 Min
+          my cups-pdf printer is slow, so we wait here 5 Min
 "
- sleep 60
+ sleep 300
 
  echo moving $j 
 
- if  [ "$j" = "./pdf_$1_A4.txt" ]
-  then
-   mv ~/PDF/*.pdf ../pdf/$1/A4
-  else
-   mv ~/PDF/*.pdf ../pdf/$1/A6
- fi
+   mv ~/PDF/*.pdf ../pdf/$1/$2
 
 done
 
