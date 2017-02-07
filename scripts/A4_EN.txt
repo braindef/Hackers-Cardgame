@@ -5,6 +5,7 @@
 ../cards/EN/algorithms/a2.svg
 ../cards/EN/algorithms/a8.svg
 ../cards/EN/algorithms/a3.svg
+../cards/EN/algorithms/a9.svg
 ../cards/EN/algorithms/a5.svg
 ../cards/EN/chemicals/c1.svg
 ../cards/EN/chemicals/c2.svg
@@ -91,3 +92,10 @@
 ../cards/EN/technologies/t5.svg
 ../cards/EN/technologies/t10.svg
 ../cards/EN/technologies/t4.svg
+../cards/EN/hacking/designPatterns/dp3.svg
+../cards/EN/hacking/designPatterns/dp4.svg
+../cards/EN/hacking/designPatterns/dp1.svg
+../cards/EN/hacking/designPatterns/dp2.svg
+../cards/EN/hacking/iso-osi/l1/stsct1.svg
+../cards/EN/hacking/iso-osi/l1/stsct2.svg
+../cards/EN/hacking/iso-osi/l1/stsct3.svg
