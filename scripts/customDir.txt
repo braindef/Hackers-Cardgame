@@ -1,0 +1,9 @@
+../cards/EN/socialEngineering/psychiatrists/p2.svg
+../cards/EN/socialEngineering/psychiatrists/mp1.svg
+../cards/EN/socialEngineering/psychiatrists/p5.svg
+../cards/EN/socialEngineering/psychiatrists/A4/templateA4.svg
+../cards/EN/socialEngineering/psychiatrists/p6.svg
+../cards/EN/socialEngineering/psychiatrists/p3.svg
+../cards/EN/socialEngineering/psychiatrists/p4.svg
+../cards/EN/socialEngineering/psychiatrists/p1.svg
+../cards/EN/socialEngineering/psychiatrists/mp2.svg

@@ -15,7 +15,7 @@ exit 0
 fi
 
 
-find  -name "*.svg" >./A4_$1.txt
+find $1 -name "*.svg" >./customDir.txt
 
 counter=0
 
@@ -25,7 +25,7 @@ cp ../cards/template/templateA4.svg ../assembled/$1/A4/
 
 
 
- for i in $(cat ./A4_$1.txt)
+ for i in $(cat ./customDir.txt)
   do
    let counter=counter+1
    if (( $counter % 8 == 1 ))
