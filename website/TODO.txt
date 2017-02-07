@@ -1,0 +1,50 @@
+TNX for the advertisement
+
+Done so far:
+
+☑ Prerequisites Video
+https://www.youtube.com/watch?v=GvW4kpUvRiU&t=5s
+
+☑ HOWTO Video for creating cards
+https://www.youtube.com/watch?v=K0uYfV4gpes
+
+☑ Printing HOWTO Video
+https://www.youtube.com/watch?v=dz9DrIYDHg4&t=9s
+
+☑ Webserver Deployment
+https://www.youtube.com/watch?v=9SVF4mvJjyY
+
+☑ new Build-System for #Cardgame's…
+https://www.youtube.com/watch?v=u3Ob_HHFGAg#t=25.2s
+
+☑ Controll Build
+https://www.youtube.com/watch?v=n9UJgiKAJ1U#t=40s (0:40)
+
+☑ i will later copy these scripts also th the Hackers-Cardgame
+
+☐ andere Frage, hat irgendwer irgendwo ein #SunGridEngine rumliegen sehen um alle Karten-Kombinationen oder Rekombinationen durchzurechnen, denn ein #C64 recht vermutlich nicht? #C64 #Tarot http://www.internetloge.de/etkt/etkt.htm
+
+☑ Multi-Language Support
+ ☐ Translate the Cards
+  ☑ EN
+  ☐ FR
+  ☐ IT
+  ☐ ES
+  ☐ ...
+(young but also old people have often problem, even with speak𝘀ing English)
+
+☐ Design for the rear-side of the Hachers-Cardgame
+(not black, uses my complete toner...)
+
+☐ extend scripts for other operating systems like ubuntu, fedora, gentoo, slackware...
+
+☐ extend scripts for other window manager like kde, unity, lxdm...
+
+
+Website: http://marclandolt.ch/Shrink-Disorder-Tarot-0.2.0/
+Source: https://github.com/braindef/Shrink-Disorder-Tarot-0.2.0
+
+Website: http://marclandolt.ch/Hackers-Cardgame/
+Source: https://github.com/braindef/Hackers-Cardgame
+
+
