@@ -20,7 +20,7 @@ echo making directories
 #mkdir -p ../cards.stretchpdf/$1/A4
 
 
- /usr/bin/inkscape &
+# /usr/bin/inkscape &
 
 counter=0
 

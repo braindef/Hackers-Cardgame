@@ -14,13 +14,8 @@ To generate the German  A6 sheets: \e[36m./generateA6.sh DE\e[39m
 exit 0
 fi
 
-mkdir -p ../assembled/$1/A6/
-cp ../cards/template/templateA6.svg ../assembled/$1/A6/
-
-
 #open an inkscape instance so that the libraries are already in RAM
 inkscape &
-sleep 8
 
 find ../cards/$1 -name "*.svg" >./A6_$1.txt
 
@@ -33,7 +28,7 @@ counter=0
    then 
      inkscape ../assembled/$1/A6/templateA6.svg &
      file=$(basename $i .svg)
-     sleep 2
+     sleep 0.6
    fi
  
    /usr/bin/inkscape $i &
@@ -68,10 +63,10 @@ counter=0
      sleep 0.5
      xdotool key space
      sleep 0.5
-     xdotool key Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab space
-     sleep 2
-     xdotool key Ctrl+Shift+s
-     sleep 2
+     xdotool key Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab space
+
+    xdotool key Ctrl+Shift+s
+     sleep 0.8
      xdotool type $file
      sleep 0.5
      xdotool key KP_Enter
