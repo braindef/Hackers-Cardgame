@@ -30,9 +30,9 @@ for i in $(cat ./PNGs.txt)
   do
   let counter=counter+1
   /usr/bin/inkscape $i &
-  sleep 6
+  sleep 8
   xdotool key Ctrl+Alt+a
-  sleep 2
+  sleep 3
   xdotool key Ctrl+Shift+e
   sleep 0.6
   xdotool key Alt+s
