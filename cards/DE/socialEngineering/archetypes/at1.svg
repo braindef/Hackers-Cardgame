@@ -15,7 +15,7 @@
    id="svg3050"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="breivik.svg"
+   sodipodi:docname="at1.svg"
    style="enable-background:new"
    enable-background="new">
   <defs
@@ -162,11 +162,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2699906"
-     inkscape:cx="149.33333"
-     inkscape:cy="198.42667"
+     inkscape:zoom="3.5920758"
+     inkscape:cx="174.79861"
+     inkscape:cy="63.880088"
      inkscape:document-units="px"
-     inkscape:current-layer="l28"
+     inkscape:current-layer="l12"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="702"
@@ -186,7 +186,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -423,14 +423,14 @@
     <text
        style="font-size:12.80000019px;stroke-width:1.06666672"
        x="34.133335"
-       y="324.93332"
+       y="334.93332"
        id="text15523"
        xml:space="default">
       <tspan
          sodipodi:role="line"
          id="tspan15525"
          x="34.133335"
-         y="324.93332"
+         y="334.93332"
          style="font-size:8.53333378px;font-weight:bold;stroke-width:1.06666672;-inkscape-font-specification:Sans Bold">Use Cases</tspan>
     </text>
     <text
@@ -608,7 +608,7 @@
        xml:space="preserve"
        id="useCasesValue"
        style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(-6,0)"><flowRegion
+       transform="translate(-6,8)"><flowRegion
          id="flowRegion25141"><rect
            id="rect25143"
            width="230.02464"
@@ -623,14 +623,14 @@
        transform="translate(-6,0)"><flowRegion
          id="flowRegion25114"><rect
            id="rect25116"
-           width="230.20244"
-           height="98.304054"
+           width="229.64566"
+           height="106.93415"
            x="40.533333"
            y="221.86667"
            style="text-align:justify;text-anchor:start"
            ry="0" /></flowRegion><flowPara
          id="flowPara7589"
-         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Anders Behring Breivik war ein norwegischer islamfeindlicher Terrorist / Amokläufer der 77 junge Menschen in einem Amoklauf ermordet hat. Da wäre zu erwarten dass wärend des Schreibens seines Manifests jemand ihn über die Informatik explizit in diese Richtgung abgerichtet hat. Als Heim-/Psychiatrie-Kind wäre zu er warten, dass derjenige der ihn dazu abgerichtet hat eine technisch-medizinische Ausbildung hat und damit davon gekommen ist. Link Verdingkinder-/Schwabenkinder?</flowPara></flowRoot>    <text
+         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Anders Behring Breivik war ein norwegischer islamfeindlicher Terrorist / Amokläufer der 77 junge Menschen in einem Amoklauf ermordet hat. Da wäre zu erwarten dass wärend des Schreibens seines Manifests jemand ihn über die Informatik explizit in diese Richtgung abgerichtet hat. Als Heim-/Psychiatrie-Kind wäre zu er warten, dass derjenige der ihn dazu abgerichtet hat eine technisch-medizinische Ausbildung hat und damit davon gekommen ist. Einige Verdingkinder-/Schwabenkinder werden zu Terroristen gemacht um von der Unterwanderungdurch anderen abzulenken?</flowPara></flowRoot>    <text
        id="yearValue"
        y="218.66667"
        x="261.33334"
