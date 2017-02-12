@@ -19,6 +19,8 @@ fi
 
 clear
 
+inkscape &
+sleep 4
 
 find ../cards/$1 -name "*.svg" >./PNGs.txt
 
@@ -28,13 +30,13 @@ for i in $(cat ./PNGs.txt)
   do
   let counter=counter+1
   /usr/bin/inkscape $i &
-  sleep 8
+  sleep 6
   xdotool key Ctrl+Alt+a
-  sleep 1
+  sleep 2
   xdotool key Ctrl+Shift+e
-  sleep 1
+  sleep 0.6
   xdotool key Alt+s
-  sleep 1
+  sleep 0.3
   xdotool key Alt+w
   sleep 1
   xdotool type "1000"
@@ -54,10 +56,8 @@ for i in $(cat ./PNGs.txt)
   #echo xdotool type $(basename $i .svg)
   sleep 
   echo xdotool type '.png'
-  sleep 1
+  sleep 0.3
   xdotool key KP_Enter
-  sleep 1
-  xdotool key Alt+e
   sleep 3
   xdotool key Ctrl+w
   sleep 1
