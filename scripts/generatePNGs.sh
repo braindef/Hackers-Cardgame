@@ -19,6 +19,8 @@ fi
 
 clear
 
+inkscape &
+sleep 4
 
 find ../cards/$1 -name "*.svg" >./PNGs.txt
 
@@ -30,33 +32,33 @@ for i in $(cat ./PNGs.txt)
   /usr/bin/inkscape $i &
   sleep 8
   xdotool key Ctrl+Alt+a
-  sleep 1
+  sleep 3
   xdotool key Ctrl+Shift+e
-  sleep 1
-  xdotool key Tab Tab Tab Space
-  sleep 1
-  xdotool key Tab Tab Tab Tab Tab Tab Tab Tab Tab
+  sleep 0.6
+  xdotool key Alt+s
+  sleep 0.3
+  xdotool key Alt+w
   sleep 1
   xdotool type "1000"
   #xdotool click 1 if key-shortcuts do not work you can also use mouse commands
-  sleep 1
-  #xdotool key Ctrl+a
   xdotool key Tab Tab Tab
   sleep 1
-  xdotool key Ctrl+a Delete
+  #xdotool key Ctrl+a
+  #xdotool key Tab  Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab
+  #sleep 2
   pngpath=$(dirname $(pwd))/png
-  echo $pngpath
-  xdotool key Alt+b
-  sleep 1
-  xdotool type "$pngpath/$1/"
-  xdotool type $(basename $i .svg)
-  sleep 1
-  xdotool type '.png'
-  sleep 1
+  figlet $pngpath
+  #xdotool key Alt+b
+  sleep 0.3
+  xdotool key Delete  
+  xdotool type "$pngpath/$1/$(basename $i .svg)"
+  sleep 0.2
+  #echo xdotool type $(basename $i .svg)
+  sleep 
+  echo xdotool type '.png'
+  sleep 0.3
   xdotool key KP_Enter
-  sleep 1
-  #xdotool key Alt+e
-  sleep 2
+  sleep 3
   xdotool key Ctrl+w
   sleep 1
   xdotool key Alt+F4

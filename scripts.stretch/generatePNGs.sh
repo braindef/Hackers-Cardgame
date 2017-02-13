@@ -33,16 +33,17 @@ for i in $(cat ./PNGs.txt)
   sleep 1
   xdotool key Ctrl+Shift+e
   sleep 1
-  xdotool key Alt+s
+  xdotool key Tab Tab Tab KP_Space
   sleep 1
-  xdotool key Alt+w
+  xdotool key Tab Tab Tab Tab Tab Tab Tab Tab Tab
   sleep 1
   xdotool type "1000"
   #xdotool click 1 if key-shortcuts do not work you can also use mouse commands
   sleep 1
   #xdotool key Ctrl+a
-  #xdotool key Tab  Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab
-  #sleep 2
+  xdotool key Tab Tab Tab
+  sleep 1
+  xdotool key Ctrl+a Delete
   pngpath=$(dirname $(pwd))/png
   echo $pngpath
   xdotool key Alt+b
@@ -54,8 +55,8 @@ for i in $(cat ./PNGs.txt)
   sleep 1
   xdotool key KP_Enter
   sleep 1
-  xdotool key Alt+e
-  sleep 3
+  #xdotool key Alt+e
+  sleep 2
   xdotool key Ctrl+w
   sleep 1
   xdotool key Alt+F4

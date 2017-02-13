@@ -20,12 +20,6 @@ find ../cards/$1 -name "*.svg" >./A4_$1.txt
 
 counter=0
 
-
-mkdir -p ../assembled/$1/A4/
-cp ../cards/template/templateA4.svg ../assembled/$1/A4/
-
-
-
  for i in $(cat ./A4_$1.txt)
   do
    let counter=counter+1
@@ -33,7 +27,7 @@ cp ../cards/template/templateA4.svg ../assembled/$1/A4/
    then 
      inkscape ../assembled/$1/A4/templateA4.svg &
      file=$(basename $i .svg)
-     sleep 8
+     sleep 3
    else
      file=$file-$(basename $i .svg)
    fi
@@ -44,11 +38,11 @@ cp ../cards/template/templateA4.svg ../assembled/$1/A4/
    xdotool key Ctrl+Alt+a
    sleep 2
    xdotool key Ctrl+c
-   sleep 1
+   sleep 0.2
    xdotool key Alt+Escape
-   sleep 1
+   sleep 0.4
    xdotool key Ctrl+v
-   sleep 1
+   sleep 0.8
    xdotool key Ctrl+g
    sleep 1
    xdotool key Alt+Escape
@@ -66,7 +60,7 @@ cp ../cards/template/templateA4.svg ../assembled/$1/A4/
      sleep 0.5
      xdotool key End KP_Enter
      sleep 0.5
-     xdotool key Tab Tab
+     xdotool key Tab
      sleep 0.2
      xdotool type '2'
      sleep 0.2
@@ -101,11 +95,11 @@ cp ../cards/template/templateA4.svg ../assembled/$1/A4/
      xdotool key KP_Enter
 
      xdotool key Ctrl+Shift+s
-     sleep 1
+     sleep 0.2
      echo filename $file .svg
      sleep 1
      xdotool type "$file"
-     sleep 3
+     sleep 1.5
 #  exit 0
      xdotool key KP_Enter
      sleep 1.5
