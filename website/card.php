@@ -107,7 +107,7 @@ $height=$_GET["height"];
   </section>
   <script src="./js/utils.js"></script><script src="./js/flip-card.js"></script>
 <script>
-var myVar = setInterval(function(){ myTimer() }, <?php echo(rand(7000,30000)); ?>);
+var myVar = setInterval(function(){ myTimer() }, <?php echo(rand(3000,8000)); ?>);
 function myTimer() {
   document.getElementById('flip').click();
 }

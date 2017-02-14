@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="318.57776"
@@ -15,11 +14,8 @@
    id="svg3050"
    version="1.1"
    inkscape:version="0.92.0 r15299"
-   sodipodi:docname="a12.svg"
-   style="enable-background:new"
-   inkscape:export-filename="/home/marc/Hackers-Cardgame/cards/DE/algorithms/a12.png"
-   inkscape:export-xdpi="336.8421"
-   inkscape:export-ydpi="336.8421">
+   sodipodi:docname="A7_en.svg"
+   style="enable-background:new">
   <defs
      id="defs3052">
     <marker
@@ -156,156 +152,6 @@
          style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.9102222pt"
          inkscape:connector-curvature="0" />
     </marker>
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path3037"
-       transform="rotate(180,183.90655,531.46305)"
-       cx="187.13196"
-       cy="540.58466"
-       rx="118.37514"
-       ry="79.389313" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:7.69710827;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path3037-2"
-       transform="matrix(-0.48719596,0,0,-0.48719596,604.69727,770.9661)"
-       cx="187.13196"
-       cy="540.58466"
-       rx="118.37514"
-       ry="79.389313" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:8.70515347;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path3037-2-1"
-       transform="matrix(-0.41626398,0.1108834,-0.1108834,-0.41626398,505.57197,814.99214)"
-       cx="187.13196"
-       cy="540.58466"
-       rx="118.37514"
-       ry="79.389313" />
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4216"
-         d="M -10.666667,0 -14.933333,4.2666667 0,0 -14.933333,-4.2666667 Z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.85333335pt" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker5462"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path5464"
-         d="M -10.666667,0 -14.933333,4.2666667 0,0 -14.933333,-4.2666667 Z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.85333335pt" />
-    </marker>
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path3037-6"
-       transform="rotate(180,200.14753,496.02817)"
-       cx="187.13196"
-       cy="540.58466"
-       rx="118.37514"
-       ry="79.389313" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:7.69710827;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path3037-2-15"
-       transform="matrix(-0.48719596,0,0,-0.48719596,604.69727,770.9661)"
-       cx="187.13196"
-       cy="540.58466"
-       rx="118.37514"
-       ry="79.389313" />
-    <ellipse
-       style="fill:none;stroke:#000000;stroke-width:8.70515347;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path3037-2-1-5"
-       transform="matrix(-0.41626398,0.1108834,-0.1108834,-0.41626398,505.57197,814.99214)"
-       cx="187.13196"
-       cy="540.58466"
-       rx="118.37514"
-       ry="79.389313" />
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-4"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4216-7"
-         d="M -10.666667,0 -14.933333,4.2666667 0,0 -14.933333,-4.2666667 Z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.85333335pt" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker13887"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path13889"
-         d="M -10.666667,0 -14.933333,4.2666667 0,0 -14.933333,-4.2666667 Z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.85333335pt" />
-    </marker>
-    <ellipse
-       transform="rotate(180,200.14753,496.02817)"
-       id="path3037-65"
-       style="fill:none;stroke:#000000;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none"
-       cx="187.13196"
-       cy="540.58466"
-       rx="118.37514"
-       ry="79.389313" />
-    <ellipse
-       transform="matrix(-0.48719596,0,0,-0.48719596,604.69727,770.9661)"
-       id="path3037-2-6"
-       style="fill:none;stroke:#000000;stroke-width:7.69710827;stroke-miterlimit:4;stroke-dasharray:none"
-       cx="187.13196"
-       cy="540.58466"
-       rx="118.37514"
-       ry="79.389313" />
-    <ellipse
-       transform="matrix(-0.41626398,0.1108834,-0.1108834,-0.41626398,505.57197,814.99214)"
-       id="path3037-2-1-3"
-       style="fill:none;stroke:#000000;stroke-width:8.70515347;stroke-miterlimit:4;stroke-dasharray:none"
-       cx="187.13196"
-       cy="540.58466"
-       rx="118.37514"
-       ry="79.389313" />
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-9"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4216-4"
-         d="M -10.666667,0 -14.933333,4.2666667 0,0 -14.933333,-4.2666667 Z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.85333335pt" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker14418"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path14420"
-         d="M -10.666667,0 -14.933333,4.2666667 0,0 -14.933333,-4.2666667 Z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.85333335pt" />
-    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -314,11 +160,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.94784235"
-     inkscape:cx="156.54108"
-     inkscape:cy="226.57026"
+     inkscape:zoom="1.2071525"
+     inkscape:cx="159.28888"
+     inkscape:cy="211.65511"
      inkscape:document-units="px"
-     inkscape:current-layer="l12"
+     inkscape:current-layer="l28"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="704"
@@ -368,17 +214,17 @@
      inkscape:groupmode="layer"
      inkscape:label="background-red">
     <rect
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-ydpi="336.75912"
-       inkscape:export-xdpi="336.75912"
-       ry="15.928889"
-       rx="15.928889"
-       y="29.582222"
-       x="28.444445"
-       height="364.0889"
-       width="261.68887"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t15.png"
+       inkscape:export-ydpi="375.67999"
+       inkscape:export-xdpi="375.67999"
+       ry="14.93334"
+       rx="14.93334"
+       y="39.06036"
+       x="35.716084"
+       height="341.3335"
+       width="245.33344"
        id="rect11026"
-       style="fill:#e9afdd;fill-opacity:1;stroke-width:1.13777781" />
+       style="fill:#e9afdd;fill-opacity:1;stroke-width:1.0666672" />
   </g>
   <g
      inkscape:label="background-other"
@@ -405,15 +251,324 @@
      inkscape:label="picture-other"
      style="display:inline">
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.70666671;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.60000074;marker:none;enable-background:accumulate"
        id="rect38747"
-       width="257.63535"
-       height="171.29269"
-       x="28.180428"
-       y="44.394241"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912" />
+       width="241.53325"
+       height="160.58698"
+       x="35.468567"
+       y="52.946831" />
+    <g
+       style="display:inline;enable-background:new"
+       id="g35984-96"
+       transform="matrix(0.09338631,0,0,0.09338631,218.92725,35.852256)">
+      <rect
+         ry="22.755556"
+         rx="22.755556"
+         y="516.24091"
+         x="-1661.139"
+         height="240.27496"
+         width="699.6701"
+         id="rect35047-9-7"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:6.15869808;marker:none;enable-background:accumulate" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#b3b3b3;stroke:#000000;stroke-width:6.15869808;marker:none;enable-background:accumulate"
+         id="rect35086-9-7"
+         width="699.66998"
+         height="107.97581"
+         x="-1661.139"
+         y="648.54016"
+         rx="22.755556"
+         ry="22.755556" />
+      <text
+         id="text35064-6-3"
+         y="731.33563"
+         x="-1499.7433"
+         style="font-style:normal;font-weight:normal;font-size:38.85995865px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         xml:space="preserve"><tspan
+           style="font-size:56.88888931px;stroke-width:1.06666672"
+           y="731.33563"
+           x="-1499.7433"
+           id="tspan35066-0-7"
+           sodipodi:role="line">+notify()</tspan></text>
+      <rect
+         transform="scale(1,-1)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:6.15869808;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
+         id="rect35062-6-12"
+         width="699.6701"
+         height="28.797161"
+         x="-1661.139"
+         y="-666.0257" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:38.85995865px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
+         x="-1623.7987"
+         y="599.84302"
+         id="text35901-4-2"><tspan
+           sodipodi:role="line"
+           id="tspan35903-9-1"
+           x="-1623.7987"
+           y="634.22498"
+           style="font-weight:bold;font-size:56.88888931px;-inkscape-font-specification:'Sans Bold';text-align:start;text-anchor:start;stroke-width:1.06666672" /></text>
+    </g>
+    <g
+       style="display:inline;enable-background:new"
+       id="g36233"
+       transform="matrix(0.52827268,0,0,0.52827268,-76.409434,-536.90404)">
+      <rect
+         ry="10.05663"
+         rx="10.05663"
+         y="1164.8531"
+         x="453.81311"
+         height="48.046768"
+         width="206.73355"
+         id="rect35047-9-7-0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:1.23995972;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#b3b3b3;stroke:#000000;stroke-width:1.23817766;marker:none;enable-background:accumulate"
+         id="rect35086-9-7-9"
+         width="206.73532"
+         height="62.828804"
+         x="453.81219"
+         y="1191.3121"
+         rx="10.05663"
+         ry="10.05663" />
+      <text
+         id="text35064-6-3-0"
+         y="1220.156"
+         x="461.56781"
+         style="font-style:normal;font-weight:normal;font-size:7.77199078px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         xml:space="preserve"><tspan
+           style="font-size:12.11496067px;text-align:start;text-anchor:start;stroke-width:1.06666672"
+           y="1220.156"
+           x="461.56781"
+           id="tspan35066-0-7-4"
+           sodipodi:role="line">+registerObserver(observer)</tspan></text>
+      <rect
+         transform="scale(1,-1)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:1.23924673;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
+         id="rect35062-6-12-0"
+         width="206.73427"
+         height="18.356518"
+         x="453.81271"
+         y="-1207.4067" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.77199078px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
+         x="554.67462"
+         y="1181.7845"
+         id="text35901-4-2-1"><tspan
+           sodipodi:role="line"
+           id="tspan35903-9-1-3"
+           x="554.67462"
+           y="1181.7845"
+           style="font-weight:bold;font-size:14.13412094px;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle;stroke-width:1.06666672">Subject</tspan></text>
+      <text
+         id="text35064-6-3-0-7"
+         y="1233.4426"
+         x="461.56781"
+         style="font-style:normal;font-weight:normal;font-size:7.77199078px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-size:12.11496067px;text-align:start;text-anchor:start;stroke-width:1.06666672"
+           y="1233.4426"
+           x="461.56781"
+           id="tspan35066-0-7-4-4"
+           sodipodi:role="line">+unregisterObserver(observer)</tspan></text>
+      <text
+         id="text35064-6-3-0-1"
+         y="1246.7292"
+         x="461.56781"
+         style="font-style:normal;font-weight:normal;font-size:7.77199078px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-size:12.11496067px;text-align:start;text-anchor:start;stroke-width:1.06666672"
+           y="1246.7292"
+           x="461.56781"
+           id="tspan35066-0-7-4-1"
+           sodipodi:role="line">+notifyObservers()</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.77199078px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         x="461.56781"
+         y="1201.4963"
+         id="text36136"><tspan
+           sodipodi:role="line"
+           id="tspan36138"
+           x="461.56781"
+           y="1201.4963"
+           style="font-size:12.11496067px;text-align:start;text-anchor:start;stroke-width:1.06666672">+observerCollection</tspan></text>
+    </g>
+    <g
+       style="display:inline;enable-background:new"
+       id="g36223"
+       transform="matrix(0.40734059,0,0,0.40734059,-10.631259,-397.37087)">
+      <text
+         id="text35064-6-3-0-7-3"
+         y="1328.1696"
+         x="436.68945"
+         style="font-style:normal;font-weight:normal;font-size:7.77199078px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.37777805px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:1.06666672"
+           y="1328.1696"
+           x="436.68945"
+           id="tspan35066-0-7-4-4-0"
+           sodipodi:role="line">notifyObservers()</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.37777805px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:1.06666672"
+           y="1338.8212"
+           x="436.68945"
+           sodipodi:role="line"
+           id="tspan36197">  for observer in observerCollection</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.37777805px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:1.06666672"
+           y="1349.4729"
+           x="436.68945"
+           sodipodi:role="line"
+           id="tspan36199">    call observer.notify()</tspan></text>
+      <g
+         id="g36201">
+        <g
+           id="g36172"
+           transform="matrix(1.0836158,0,0,0.95625674,-36.003286,59.755997)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path36142"
+             d="m 430.5801,1302.9759 v 63.086 h 240.92385 v -55.9836 l -6.99792,-6.9979 z"
+             style="fill:none;stroke:#000000;stroke-width:1.13777781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path36155"
+             d="m 664.51452,1303.0932 v 6.9548 h 6.91775 z"
+             style="fill:none;stroke:#000000;stroke-width:0.45511112;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.64000034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#EmptyDiamondLstart);marker-end:none;enable-background:new"
+       d="M 162.88513,96.6622 H 129.37898"
+       id="path36248"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       style="display:inline;enable-background:new"
+       id="g35984"
+       transform="matrix(0.09338631,0,0,0.09338631,198.61551,97.52272)">
+      <rect
+         ry="22.755556"
+         rx="22.755556"
+         y="516.24091"
+         x="-1661.139"
+         height="240.27496"
+         width="699.6701"
+         id="rect35047-9"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:6.15869808;marker:none;enable-background:accumulate" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#b3b3b3;stroke:#000000;stroke-width:6.15869808;marker:none;enable-background:accumulate"
+         id="rect35086-9"
+         width="699.66998"
+         height="107.97581"
+         x="-1661.139"
+         y="648.54016"
+         rx="22.755556"
+         ry="22.755556" />
+      <text
+         id="text35064-6"
+         y="731.33563"
+         x="-1499.7433"
+         style="font-style:normal;font-weight:normal;font-size:38.85995865px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         xml:space="preserve"><tspan
+           style="font-size:56.88888931px;stroke-width:1.06666672"
+           y="731.33563"
+           x="-1499.7433"
+           id="tspan35066-0"
+           sodipodi:role="line">+notify()</tspan></text>
+      <rect
+         transform="scale(1,-1)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:6.15869808;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
+         id="rect35062-6"
+         width="699.6701"
+         height="28.797161"
+         x="-1661.139"
+         y="-666.0257" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:38.85995865px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
+         x="-1623.7987"
+         y="599.84302"
+         id="text35901-4"><tspan
+           sodipodi:role="line"
+           id="tspan35903-9"
+           x="-1623.7987"
+           y="599.84302"
+           style="font-weight:bold;font-size:56.88888931px;-inkscape-font-specification:'Sans Bold';text-align:start;text-anchor:start;stroke-width:1.06666672">ConcreteObserverA</tspan></text>
+    </g>
+    <g
+       style="display:inline;enable-background:new"
+       id="g35984-9"
+       transform="matrix(0.09338631,0,0,0.09338631,275.93225,130.16235)">
+      <rect
+         ry="22.755556"
+         rx="22.755556"
+         y="516.24091"
+         x="-1661.139"
+         height="240.27496"
+         width="699.6701"
+         id="rect35047-9-0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:6.15869808;marker:none;enable-background:accumulate" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#b3b3b3;stroke:#000000;stroke-width:6.15869808;marker:none;enable-background:accumulate"
+         id="rect35086-9-8"
+         width="699.66998"
+         height="107.97581"
+         x="-1661.139"
+         y="648.54016"
+         rx="22.755556"
+         ry="22.755556" />
+      <text
+         id="text35064-6-9"
+         y="731.33563"
+         x="-1499.7433"
+         style="font-style:normal;font-weight:normal;font-size:38.85995865px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         xml:space="preserve"><tspan
+           style="font-size:56.88888931px;stroke-width:1.06666672"
+           y="731.33563"
+           x="-1499.7433"
+           id="tspan35066-0-3"
+           sodipodi:role="line">+notify()</tspan></text>
+      <rect
+         transform="scale(1,-1)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:#000000;stroke-width:6.15869808;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
+         id="rect35062-6-1"
+         width="699.6701"
+         height="28.797161"
+         x="-1661.139"
+         y="-666.0257" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:38.85995865px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
+         x="-1623.7987"
+         y="599.84302"
+         id="text35901-4-4"><tspan
+           sodipodi:role="line"
+           id="tspan35903-9-8"
+           x="-1623.7987"
+           y="599.84302"
+           style="font-weight:bold;font-size:56.88888931px;-inkscape-font-specification:'Sans Bold';text-align:start;text-anchor:start;stroke-width:1.06666672">ConcreteObserverB</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.53324139;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 52.18955,145.83433 v -13.0365 h 80.90419 v 45.02334"
+       id="path38202"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.64000034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#EmptyTriangleOutL);enable-background:new"
+       d="m 92.343847,133.35705 c 0,2.61117 0,-26.39901 0,-26.39901"
+       id="path38204"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.69519466;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.69519461, 0.69519461;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       d="m 217.93347,126.4005 v 7.88122"
+       id="path38418"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -421,17 +576,17 @@
      inkscape:label="Frame"
      style="display:inline">
     <rect
-       style="fill:none;stroke:#000000;stroke-width:9.0666666;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:8.50000381;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="frameLeft"
-       width="261.68887"
-       height="364.0889"
-       x="28.444445"
-       y="29.582222"
-       rx="11.377778"
-       ry="11.377778"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png" />
+       width="245.33344"
+       height="341.3335"
+       x="35.716084"
+       y="39.060558"
+       rx="10.666672"
+       ry="10.666672"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t15.png" />
   </g>
   <g
      style="display:inline"
@@ -439,17 +594,17 @@
      id="l06"
      inkscape:groupmode="layer">
     <rect
-       style="fill:none;stroke:#000000;stroke-width:5.68888903;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:5.33333588;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect16606"
-       width="261.68887"
-       height="187.19704"
-       x="28.444445"
-       y="29.582222"
-       rx="11.377778"
-       ry="11.377778"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png" />
+       width="245.33344"
+       height="175.4973"
+       x="35.716084"
+       y="39.060558"
+       rx="10.666672"
+       ry="10.666672"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t15.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -475,17 +630,17 @@
      inkscape:groupmode="layer"
      style="display:inline">
     <rect
-       inkscape:export-ydpi="336.75912"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       rx="13.830706"
-       y="30.774862"
-       x="28.465893"
-       height="33.088181"
-       width="261.646"
+       inkscape:export-ydpi="375.67999"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t15.png"
+       rx="12.966292"
+       y="40.178658"
+       x="35.736191"
+       height="31.020184"
+       width="245.29323"
        id="rect7275"
-       style="fill:#f80c34;fill-opacity:1;stroke:#000000;stroke-width:4.55111122;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       ry="13.830706" />
+       style="fill:#f80c34;fill-opacity:1;stroke:#000000;stroke-width:4.2666688;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ry="12.966292" />
   </g>
   <g
      style="display:none"
@@ -569,52 +724,43 @@
      inkscape:label="static-text English"
      style="display:inline">
     <text
-       style="font-size:13.65333366px;stroke-width:1.13777781"
-       x="36.40889"
-       y="346.59555"
+       style="font-size:12.80000591px;stroke-width:1.0666672"
+       x="43.182755"
+       y="336.26068"
        id="text15523"
-       xml:space="default"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912">
+       xml:space="default">
       <tspan
          sodipodi:role="line"
          id="tspan15525"
-         x="36.40889"
-         y="346.59555"
-         style="font-weight:bold;font-size:9.10222244px;-inkscape-font-specification:'Sans Bold';stroke-width:1.13777781">Use Cases</tspan>
+         x="43.182755"
+         y="336.26068"
+         style="font-weight:bold;font-size:8.53333759px;-inkscape-font-specification:'Sans Bold';stroke-width:1.0666672">Use Cases</tspan>
     </text>
     <text
-       style="font-size:13.65333366px;stroke-width:1.13777781"
+       style="font-size:12.80000591px;stroke-width:1.0666672"
        xml:space="default"
        id="text15527"
-       y="233.24445"
-       x="36.40889"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912">
+       y="229.99397"
+       x="43.182755">
       <tspan
-         style="font-weight:bold;font-size:11.37777805px;-inkscape-font-specification:'Sans Bold';stroke-width:1.13777781"
+         style="font-weight:bold;font-size:10.66667175px;-inkscape-font-specification:'Sans Bold';stroke-width:1.0666672"
          id="tspan15529"
          sodipodi:role="line"
-         x="36.40889"
-         y="233.24445">Inventor:</tspan>
+         x="43.182755"
+         y="229.99397">Inventor:</tspan>
     </text>
     <text
-       style="font-size:13.65333366px;text-align:end;text-anchor:end;stroke-width:1.13777781"
-       x="241.77779"
+       style="font-size:12.80000591px;text-align:end;text-anchor:end;stroke-width:1.0666672"
+       x="235.71619"
        id="text15531"
        xml:space="default"
-       y="233.24445"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912">
+       y="229.99397">
       <tspan
-         style="font-weight:bold;font-size:11.37777805px;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;stroke-width:1.13777781"
-         x="241.77779"
+         style="font-weight:bold;font-size:10.66667175px;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;stroke-width:1.0666672"
+         x="235.71619"
          sodipodi:role="line"
          id="tspan15533"
-         y="233.24445">Year:</tspan>
+         y="229.99397">Year:</tspan>
     </text>
   </g>
   <g
@@ -773,9 +919,7 @@
        xml:space="preserve"
        id="useCasesValue"
        style="font-style:normal;font-weight:normal;font-size:9.10222244px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912"><flowRegion
+       transform="matrix(0.93750042,0,0,0.93750042,9.049406,11.327014)"><flowRegion
          id="flowRegion25141"
          style="stroke-width:1.06666672"><rect
            id="rect25143"
@@ -785,13 +929,11 @@
            y="351.57333"
            style="stroke-width:1.13777781" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4666667px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:justify;text-anchor:start;stroke-width:1.06666672"
-         id="flowPara7573">Um zu verstehen wie Beziehungsnetzwerke, Soziale-, Mechanische-, Biologische-, Informatik-Systeme oder Programme / Software funktionieren</flowPara></flowRoot>    <flowRoot
+         id="flowPara7573">Statistics, check plausibilities of statements or other data</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="abstract"
        style="font-style:normal;font-weight:normal;font-size:9.10222244px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912"><flowRegion
+       transform="matrix(0.93750042,0,0,0.93750042,9.049406,11.327014)"><flowRegion
          id="flowRegion25114"
          style="stroke-width:1.06666672"><rect
            id="rect25116"
@@ -802,376 +944,28 @@
            style="text-align:justify;text-anchor:start;stroke-width:1.13777781"
            ry="0" /></flowRegion><flowPara
          id="flowPara7589"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4666667px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672">Ein <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:'Monospace Bold';fill:#0000ff;stroke-width:1.06666672"
-   id="flowSpan13845">System</flowSpan> kann aus mehrerern <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:'Monospace Bold';stroke-width:1.06666672"
-   id="flowSpan13849">Elementen</flowSpan> oder mehreren <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:'Monospace Bold';fill:#0000ff;stroke-width:1.06666672"
-   id="flowSpan13841">Teil-Systemen</flowSpan> bestehen. Die Elemente eines Systems haben untereinander Verbindungen (<flowSpan
-   style="font-weight:bold;-inkscape-font-specification:'Monospace Bold';fill:#008000;stroke-width:1.06666672"
-   id="flowSpan13857">Relationen [R]</flowSpan>) und die <flowSpan
-   style="fill:#ff0000;stroke-width:1.06666672"
-   id="flowSpan13855">Konditionierende</flowSpan><flowSpan
-   style="font-weight:bold;-inkscape-font-specification:'Monospace Bold';fill:#ff0000;stroke-width:1.06666672"
-   id="flowSpan13851"> [K]</flowSpan> auf eine Relation sagt wie diese Verbindungen sein dürfen. Z.B. Gesetzestexte, Die Bibel, die Tora, der Koran, das Kapital von Karl Marx, die Erwebsregeln der Ferengi. Niklas Luhmann galt als führend, diese Grafik ist aus seinem Buch Soziale Systeme.</flowPara></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4666667px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672">For example the distribution of intelligence in society, but you could also take the size of men, the number of households with kitchen mixer ... but you would have to find out whether it is really normal distribution, even paranormal distribution or just random or conicidence</flowPara></flowRoot>    <text
        id="yearValue"
-       y="233.24445"
-       x="278.75555"
-       style="font-style:normal;font-weight:normal;font-size:9.10222244px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       xml:space="preserve"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912"><tspan
+       y="229.99377"
+       x="270.38284"
+       style="font-style:normal;font-weight:normal;font-size:8.53333759px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00000048"
+       xml:space="preserve"><tspan
          id="tspan25184"
-         style="font-weight:bold;font-size:9.60000038px;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#ff0000;stroke-width:1.06666672"
-         y="233.24445"
-         x="278.75555"
-         sodipodi:role="line">~1914</tspan></text>
+         style="font-weight:bold;font-size:9.00000477px;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#ff0000;stroke-width:1.00000048"
+         y="229.99377"
+         x="270.38284"
+         sodipodi:role="line">~xxxx</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.10222244px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       x="96.711105"
-       y="233.24445"
-       id="inventerValue"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912"><tspan
+       style="font-style:normal;font-weight:normal;font-size:8.53333759px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00000048"
+       x="99.71611"
+       y="229.99377"
+       id="inventerValue"><tspan
          sodipodi:role="line"
-         x="96.711105"
-         y="233.24445"
-         style="text-align:start;text-anchor:start;fill:#ff0000;stroke-width:1.06666672"
-         id="tspan24717-3">Niklas Luhmann</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       x="175.55487"
-       y="193.2623"
-       id="text2985-3"><tspan
-         sodipodi:role="line"
-         id="tspan2987-6"
-         x="175.55487"
-         y="193.2623"
-         style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.46556836">E</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       x="227.05016"
-       y="141.4628"
-       id="text2985-7"><tspan
-         sodipodi:role="line"
-         id="tspan2987-5"
-         x="227.05016"
-         y="141.4628"
-         style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.46556836">E</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       x="253.45096"
-       y="146.74298"
-       id="text2985-3-7"><tspan
-         sodipodi:role="line"
-         id="tspan2987-6-0"
-         x="253.45096"
-         y="146.74298"
-         style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.46556836">E</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       x="233.65036"
-       y="155.98325"
-       id="text2985-3-9"><tspan
-         sodipodi:role="line"
-         id="tspan2987-6-3"
-         x="233.65036"
-         y="155.98325"
-         style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.46556836">E</tspan></text>
-    <text
-       id="text2985"
-       y="119.02325"
-       x="134.20139"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       xml:space="preserve"><tspan
-         style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.46556836"
-         y="119.02325"
-         x="134.20139"
-         id="tspan2987"
-         sodipodi:role="line">E<tspan
-   style="font-size:7.26296854px;baseline-shift:sub;stroke-width:0.46556836"
-   id="tspan4984">3</tspan></tspan></text>
-    <text
-       id="text2985-35"
-       y="136.95651"
-       x="73.519569"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       xml:space="preserve"><tspan
-         style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.46556836"
-         y="136.95651"
-         x="73.519569"
-         id="tspan2987-62"
-         sodipodi:role="line">E<tspan
-   style="font-size:7.26296854px;baseline-shift:sub;stroke-width:0.46556836"
-   id="tspan4980">1</tspan></tspan></text>
-    <text
-       id="text2985-9"
-       y="93.395119"
-       x="90.35009"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       xml:space="preserve"><tspan
-         style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.46556836"
-         y="93.395119"
-         x="90.35009"
-         id="tspan2987-1"
-         sodipodi:role="line">E<tspan
-   style="font-size:7.26296854px;baseline-shift:sub;stroke-width:0.46556836"
-   id="tspan4986">4</tspan></tspan></text>
-    <text
-       id="text2985-3-6"
-       y="140.9166"
-       x="127.31126"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       xml:space="preserve"><tspan
-         style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.46556836"
-         y="140.9166"
-         x="127.31126"
-         id="tspan2987-6-06"
-         sodipodi:role="line">E<tspan
-   style="font-size:7.26296854px;baseline-shift:sub;stroke-width:0.46556836"
-   id="tspan4982">2</tspan></tspan></text>
-    <text
-       id="text2985-3-2"
-       y="110.22562"
-       x="61.639206"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       xml:space="preserve"><tspan
-         style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.46556836"
-         y="110.22562"
-         x="61.639206"
-         id="tspan2987-6-6"
-         sodipodi:role="line">E<tspan
-   style="font-size:7.26296854px;baseline-shift:sub;stroke-width:0.46556836"
-   id="tspan4988">5</tspan></tspan></text>
-    <ellipse
-       ry="36.961151"
-       rx="55.111721"
-       cy="-117.02248"
-       cx="-106.13523"
-       style="fill:none;stroke:#000000;stroke-width:1.74588132;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path14446"
-       transform="scale(-1)" />
-    <text
-       transform="matrix(0.70588993,0.03264273,-0.03264273,0.70588993,-7.6167508,-201.68317)"
-       y="-103.62855"
-       x="-4.7776127"
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.25924492px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20497954"
-       id="text3891"><textPath
-         style="font-weight:bold;-inkscape-font-specification:'Sans Bold';fill:#0000ff;stroke-width:1.20497954"
-         xlink:href="#path3037-65"
-         id="textPath3895">System 1</textPath></text>
-    <ellipse
-       ry="18.007322"
-       rx="26.850206"
-       cy="-143.15192"
-       cx="-245.97531"
-       style="fill:none;stroke:#000000;stroke-width:1.74588132;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path14450"
-       transform="scale(-1)" />
-    <text
-       transform="matrix(0.5994771,0.34768126,-0.34768126,0.5994771,124.53159,-330.97958)"
-       y="-74.845657"
-       x="1.0528755"
-       id="text3904"
-       style="font-style:normal;font-weight:normal;font-size:12.59566593px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       xml:space="preserve"><textPath
-         style="stroke-width:1.06666672"
-         xlink:href="#path3037-2-6"
-         id="textPath3974"><tspan
-   style="font-weight:bold;-inkscape-font-specification:'Sans Bold';fill:#0000ff;stroke-width:1.06666672"
-   id="tspan3906">System 2</tspan></textPath></text>
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path3983"
-       d="m 82.287011,131.69063 43.460499,4.27385"
-       style="fill:none;stroke:#008000;stroke-width:1.16392088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3985"
-       d="M 78.884602,127.07308 92.008169,95.965366"
-       style="fill:none;stroke:#008000;stroke-width:1.16392088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3987"
-       d="m 103.92297,93.055388 29.10905,20.116972"
-       style="fill:none;stroke:#008000;stroke-width:1.16392088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="cc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3989"
-       d="M 82.150195,128.78601 133.15077,117.61776"
-       style="fill:none;stroke:#008000;stroke-width:1.16392088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       id="text3991-9-7"
-       y="153.12216"
-       x="177.90225"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       xml:space="preserve"><tspan
-         style="font-size:7.44909382px;fill:#008000;stroke-width:0.46556836"
-         y="153.12216"
-         x="177.90225"
-         id="tspan3993-2-5"
-         sodipodi:role="line">[R]</tspan></text>
-    <text
-       id="text3991-9-7-9"
-       y="141.83313"
-       x="97.486305"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       xml:space="preserve"><tspan
-         style="font-size:7.44909382px;fill:#008000;stroke-width:0.46556836"
-         y="141.83313"
-         x="97.486305"
-         id="tspan3993-2-5-2"
-         sodipodi:role="line">[R]</tspan></text>
-    <text
-       id="text3991-9-7-9-2"
-       y="114.53741"
-       x="87.319283"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       xml:space="preserve"><tspan
-         style="font-size:7.44909382px;fill:#008000;stroke-width:0.46556836"
-         y="114.53741"
-         x="87.319283"
-         id="tspan3993-2-5-2-8"
-         sodipodi:role="line">[R]</tspan></text>
-    <text
-       id="text3991-9-7-9-9"
-       y="100.7896"
-       x="117.56443"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       xml:space="preserve"><tspan
-         style="font-size:7.44909382px;fill:#008000;stroke-width:0.46556836"
-         y="100.7896"
-         x="117.56443"
-         id="tspan3993-2-5-2-7"
-         sodipodi:role="line">[R]</tspan></text>
-    <text
-       id="text3991-9-7-9-3"
-       y="130.00368"
-       x="107.94097"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       xml:space="preserve"><tspan
-         style="font-size:7.44909382px;fill:#008000;stroke-width:0.46556836"
-         y="130.00368"
-         x="107.94097"
-         id="tspan3993-2-5-2-6"
-         sodipodi:role="line">[R]</tspan></text>
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path4136"
-       d="M 223.07735,157.56639 200.0498,176.8133"
-       style="fill:none;stroke:#008000;stroke-width:1.16392088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <ellipse
-       ry="15.922099"
-       rx="23.740988"
-       cy="-230.56319"
-       cx="-122.89198"
-       style="fill:none;stroke:#000000;stroke-width:1.74588132;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path14470"
-       transform="rotate(165.08405)" />
-    <text
-       transform="matrix(0.66702576,-0.13745119,0.13745119,0.66702576,-147.18377,-167.56879)"
-       y="-16.108356"
-       x="-117.60545"
-       id="text3908"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       xml:space="preserve"><textPath
-         style="font-weight:bold;-inkscape-font-specification:'Sans Bold';fill:#0000ff;stroke-width:1.06666672"
-         xlink:href="#path3037-2-1-3"
-         id="textPath3962">System 3</textPath></text>
-    <text
-       id="text3991-9-7-9-9-1"
-       y="177.77727"
-       x="215.86118"
-       style="font-style:normal;font-weight:normal;font-size:11.17364025px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       xml:space="preserve"><tspan
-         style="font-size:7.44909382px;fill:#008000;stroke-width:0.46556836"
-         y="177.77727"
-         x="215.86118"
-         id="tspan3993-2-5-2-7-2"
-         sodipodi:role="line">[R]</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path4653-6"
-       d="m 103.52027,108.61226 3.65202,13.43736"
-       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.49863309;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:none"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.24931654px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 103.67387,108.74395 3.71278,14.10568"
-       id="path4207-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       id="text3991-9-7-9-9-9-0"
-       y="131.06845"
-       x="68.36248"
-       style="font-style:normal;font-weight:normal;font-size:5.9835968px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.46556836"
-       xml:space="preserve"
-       transform="rotate(-15)"><tspan
-         style="font-weight:bold;font-size:3.98906469px;-inkscape-font-specification:'Sans Bold';fill:#ff0000;stroke-width:0.46556836"
-         y="131.06845"
-         x="68.36248"
-         id="tspan3993-2-5-2-7-3-6"
-         sodipodi:role="line">[K]</tspan></text>
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path4136-3"
-       d="m 252.1577,146.22804 -10.60673,5.58146"
-       style="fill:none;stroke:#008000;stroke-width:1.16392088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path4136-3-2"
-       d="m 251.10755,141.24267 -15.41846,-4.21385"
-       style="fill:none;stroke:#008000;stroke-width:1.16392088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path4136-3-0"
-       d="m 231.68879,142.61745 2.71144,4.12075"
-       style="fill:none;stroke:#008000;stroke-width:1.16392088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3989-7"
-       d="m 162.2658,128.88933 53.80557,12.81229"
-       style="fill:none;stroke:#008000;stroke-width:1.39670503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.93113673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 190.98773,130.66128 6.19724,-26.85471"
-       id="path14337"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.52741855px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 197.26276,103.81657 -7.03538,30.04357"
-       id="path4207-1-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       id="text3991-9-7-9-9-9-0-7-8"
-       y="53.455334"
-       x="208.42055"
-       style="font-style:normal;font-weight:normal;font-size:12.65804482px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.46556839"
-       xml:space="preserve"
-       transform="rotate(12.926066)"><tspan
-         style="font-weight:bold;font-size:8.43869686px;-inkscape-font-specification:'Sans Bold';fill:#ff0000;stroke-width:0.46556839"
-         y="53.455334"
-         x="208.42055"
-         id="tspan3993-2-5-2-7-3-6-3"
-         sodipodi:role="line">[K]</tspan></text>
+         x="99.71611"
+         y="229.99377"
+         style="text-align:start;text-anchor:start;fill:#ff0000;stroke-width:1.00000048"
+         id="tspan24717-3">xxxx</tspan></text>
   </g>
   <g
      transform="translate(0,0.00316668)"
@@ -1181,33 +975,26 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.10222244px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       x="168.91078"
-       y="54.514118"
-       id="text8922"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912"><tspan
+       style="font-style:normal;font-weight:normal;font-size:8.53333759px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00000048"
+       x="167.40334"
+       y="62.434021"
+       id="text8922"><tspan
          sodipodi:role="line"
-         x="168.91078"
-         y="54.514118"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.06666756px;font-family:'MineCrafter 3';-inkscape-font-specification:'MineCrafter 3';fill:#ffffff;stroke-width:1.06666672"
-         id="tspan15866"
-         dy="1.0666667">System-Theorie</tspan></text>
+         x="167.40334"
+         y="62.434021"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00000763px;font-family:'MineCrafter 3';-inkscape-font-specification:'MineCrafter 3';fill:#ffffff;stroke-width:1.00000048"
+         id="tspan15866">Title / Titel</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:25.60000038px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       x="302.36444"
-       y="90.706169"
-       id="text3791"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912"><tspan
+       style="font-style:normal;font-weight:normal;font-size:24.00001144px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00000048"
+       x="284.5162"
+       y="110.36408"
+       id="text3791"><tspan
          sodipodi:role="line"
          id="tspan3793"
-         x="302.36444"
-         y="113.35617"
-         style="stroke-width:1.06666672" /></text>
+         x="284.5162"
+         y="131.59846"
+         style="stroke-width:1.00000048" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1246,13 +1033,13 @@
      inkscape:groupmode="layer"
      id="l16"
      inkscape:label="algorithm"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,0.00316668)">
     <g
        style="display:inline;enable-background:new"
-       inkscape:export-ydpi="336.75912"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
+       inkscape:export-ydpi="375.67999"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/a1.png"
        transform="matrix(0.83023581,0,0,0.83023581,-222.02215,-638.15444)"
        id="g3873-3">
       <rect
@@ -2613,7 +2400,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="hacking"
      id="l26"
      inkscape:groupmode="layer">
@@ -2621,16 +2408,17 @@
        inkscape:export-ydpi="375.67999"
        inkscape:export-xdpi="375.67999"
        inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t1.2.png"
-       rx="10.808888"
-       y="34.593128"
-       x="33.477051"
-       height="25.272779"
-       width="25.272779"
+       rx="10.133338"
+       y="43.758286"
+       x="40.434155"
+       height="23.693241"
+       width="23.693241"
        id="rect7888"
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.13777781;enable-background:new"
-       ry="10.808888" />
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.0666672;enable-background:new"
+       ry="10.133338" />
     <g
-       id="g4894">
+       id="g4894"
+       transform="matrix(0.93750042,0,0,0.93750042,9.049406,11.327212)">
       <g
          transform="translate(113.92208,-21.892614)"
          id="g7867"
@@ -2697,17 +2485,16 @@
      inkscape:groupmode="layer"
      id="l27"
      inkscape:label="symbol"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
-       ry="10.808888"
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.13777781;enable-background:new"
+       ry="10.133338"
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.0666672;enable-background:new"
        id="rect7266"
-       width="25.272779"
-       height="25.272779"
-       x="33.477051"
-       y="34.593128"
-       rx="10.808888"
+       width="23.693241"
+       height="23.693241"
+       x="40.434155"
+       y="43.758286"
+       rx="10.133338"
        inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t1.2.png"
        inkscape:export-xdpi="375.67999"
        inkscape:export-ydpi="375.67999" />
@@ -2716,58 +2503,61 @@
      inkscape:groupmode="layer"
      id="l28"
      inkscape:label="flag"
-     style="display:inline">
+     style="display:none">
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:4.96512413;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:4.65480614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8612"
-       width="43.613609"
-       height="30.424219"
-       x="40.453365"
-       y="176.59164"
-       rx="0.22755556"
-       ry="0.22755556"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912" />
-    <rect
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.5688889;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="rect8612-3"
-       width="45.015877"
-       height="31.399815"
-       x="39.785397"
-       y="176.14363"
-       rx="0.56888884"
-       ry="0.5688889"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912" />
+       width="40.887775"
+       height="28.522718"
+       x="38.974453"
+       y="190.88196"
+       rx="0.21333343"
+       ry="0.21333343" />
     <g
-       id="g13835"
-       transform="translate(96.758206,94.524562)"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912">
+       style="display:inline;enable-background:new"
+       id="g8680"
+       transform="matrix(0.93750042,0,0,0.93750042,-316.04849,44.023254)">
       <path
          inkscape:connector-curvature="0"
-         id="path846"
-         style="display:inline;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;enable-background:new"
-         d="m -55.665731,111.39629 c 0,0 42.156266,0 42.156266,0 0,0 0,-28.233393 0,-28.233393 0,0 -42.156266,0 -42.156266,0 0,0 0,28.233393 0,28.233393 z" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path848"
+         id="path786-3-1"
          style="display:inline;fill:#ed1c24;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;enable-background:new"
-         d="m -55.665731,111.39629 c 0,0 42.156266,0 42.156266,0 0,0 0,-18.821926 0,-18.821926 0,0 -42.156266,0 -42.156266,0 0,0 0,18.821926 0,18.821926 z" />
+         d="m 379.41964,185.97779 c 0,0 42.15626,0 42.15626,0 0,0 0,-28.23294 0,-28.23294 0,0 -42.15626,0 -42.15626,0 0,0 0,28.23294 0,28.23294 z" />
       <path
          inkscape:connector-curvature="0"
-         id="path850"
-         style="display:inline;fill:#fbc707;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;enable-background:new"
-         d="m -55.665731,111.39629 c 0,0 42.156266,0 42.156266,0 0,0 0,-9.41387 0,-9.41387 0,0 -42.156266,0 -42.156266,0 0,0 0,9.41387 0,9.41387 z" />
+         id="path788-6-9"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;enable-background:new"
+         d="m 379.41964,167.1578 c 0,0 0,9.40761 0,9.40761 0,0 42.15626,0 42.15626,0 0,0 0,-9.40761 0,-9.40761 0,0 -42.15626,0 -42.15626,0 z" />
       <path
          inkscape:connector-curvature="0"
-         id="path852"
+         id="path790-7-6"
          style="display:inline;fill:none;stroke:#231f20;stroke-width:0.04958235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-         d="m -55.665731,111.39629 c 0,0 42.156266,0 42.156266,0 0,0 0,-28.233393 0,-28.233393 0,0 -42.156266,0 -42.156266,0 0,0 0,28.233393 0,28.233393 z" />
+         d="m 421.5759,185.97779 c 0,0 -42.15626,0 -42.15626,0 0,0 0,-28.23294 0,-28.23294 0,0 42.15626,0 42.15626,0 0,0 0,28.23294 0,28.23294 z" />
     </g>
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.5333336;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       id="rect8612-3"
+       width="42.202404"
+       height="29.43734"
+       x="38.348232"
+       y="190.46194"
+       rx="0.53333354"
+       ry="0.5333336" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.60000038px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       x="-240.21176"
+       y="186.45805"
+       id="text3489"><tspan
+         sodipodi:role="line"
+         x="-240.21176"
+         y="186.45805"
+         id="tspan3493"
+         style="stroke-width:1.06666672">Flags in the File</tspan><tspan
+         sodipodi:role="line"
+         x="-240.21176"
+         y="218.45805"
+         id="tspan3495"
+         style="font-size:17.06666756px;stroke-width:1.06666672">./cards/templates/flags.svg</tspan></text>
   </g>
   <g
      style="display:inline"
@@ -2775,16 +2565,13 @@
      id="l32"
      inkscape:groupmode="layer">
     <rect
-       style="opacity:0.71929824;fill:none;stroke:#000100;stroke-width:0.58137125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.71929824;fill:none;stroke:#000100;stroke-width:0.54503578;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect12533"
-       width="284.41519"
-       height="385.12405"
-       x="17.081287"
-       y="19.823406"
-       rx="15.928889"
-       ry="15.928889"
-       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
-       inkscape:export-xdpi="336.75912"
-       inkscape:export-ydpi="336.75912" />
+       width="266.63937"
+       height="361.05396"
+       x="25.06312"
+       y="29.911663"
+       rx="14.93334"
+       ry="14.93334" />
   </g>
 </svg>
