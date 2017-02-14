@@ -19,15 +19,19 @@ Contact: s.vilches.e@gmail.com
  	 ----------------------------------------------------------- 
 */
 // Test it!
-punch();
-#color("blue"){
- translate([-400,-400,0])
- square([2970,2100]);
+
+#punch();
+
+{
+ translate([-111,-190,0])
+ %square([2100,2970]);
 }
+color("red") {
 matrice();
+}
 
 module punch() {
-translate([0,0,100]) 
+translate([0,0,80]) 
  roundCornersCube(250,350,40,10);
 }
 
