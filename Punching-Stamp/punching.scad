@@ -20,7 +20,10 @@ Contact: s.vilches.e@gmail.com
 */
 // Test it!
 punch();
-
+#color("blue"){
+ translate([-400,-400,0])
+ square([2970,2100]);
+}
 matrice();
 
 module punch() {
@@ -31,6 +34,7 @@ translate([0,0,100])
 
 
 module matrice() {
+translate([0,0,-25]) 
 difference()
 {
  roundCornersCube(350,450,49,10);
