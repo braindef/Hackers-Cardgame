@@ -471,7 +471,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.5752587"
      inkscape:cx="171.46023"
-     inkscape:cy="78.541094"
+     inkscape:cy="125.73266"
      inkscape:document-units="px"
      inkscape:current-layer="g7411"
      showgrid="false"
@@ -731,7 +731,7 @@
      inkscape:groupmode="layer">
     <text
        x="34.133335"
-       y="281.60001"
+       y="279.60001"
        id="text8156"
        xml:space="default"
        style="font-size:12.80000019px;stroke-width:1.06666672">
@@ -739,30 +739,30 @@
          sodipodi:role="line"
          id="tspan12090"
          x="34.133335"
-         y="281.60001"
+         y="279.60001"
          style="font-weight:bold;font-size:8.53333378px;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672">Principales logros</tspan>
     </text>
     <text
        xml:space="default"
        id="Parameter"
-       y="300.93332"
+       y="298.93332"
        x="34.133335"
        style="font-size:12.80000019px;stroke-width:1.06666672">
       <tspan
          style="font-weight:bold;font-size:8.53333378px;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
-         y="300.93332"
+         y="298.93332"
          x="34.133335"
          id="tspan7670"
          sodipodi:role="line">Perfil breve</tspan>
     </text>
     <text
        x="34.133335"
-       y="218.66667"
+       y="216.66667"
        id="StaticTextShrink"
        xml:space="default"
        style="font-size:12.80000019px;stroke-width:1.06666672">
       <tspan
-         y="218.66667"
+         y="216.66667"
          x="34.133335"
          sodipodi:role="line"
          id="tspan12094"
@@ -1086,7 +1086,8 @@
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="BigFive"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       transform="translate(0,-4)"><flowRegion
          id="flowRegion7427"
          style="stroke-width:1.06666672"><rect
            ry="0"
@@ -1099,7 +1100,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:1.06666672"
          id="flowPara8284"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:'Monospace Bold';stroke-width:1.06666672"
-   id="flowSpan8292">N</flowSpan> neuroticismo:       bajo</flowPara><flowPara
+   id="flowSpan8292">N</flowSpan> <flowSpan
+   style="line-height:10.66666698px"
+   id="flowSpan2025">neuroticismo</flowSpan>:       bajo</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:1.06666672"
          id="flowPara8286"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:'Monospace Bold';stroke-width:1.06666672"
@@ -1119,7 +1122,7 @@
        xml:space="preserve"
        id="Errungenschaften"
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:10.66666698px;font-family:Sans;-inkscape-font-specification:Sans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       transform="translate(0,-6)"><flowRegion
+       transform="translate(0,-8)"><flowRegion
          id="flowRegion7777"
          style="line-height:10.66666698px;stroke-width:1.06666672"><rect
            id="rect7779"
@@ -1153,11 +1156,11 @@
            style="text-align:justify;text-anchor:start;stroke-width:1.13777781"
            y="304"
            x="35.200001"
-           height="71.063713"
-           width="236.8"
+           height="81.936432"
+           width="234.47015"
            id="rect7843" /></flowRegion><flowPara
          id="flowPara7895"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672">Humanismo:                           ★★★★★  (5/5)</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672">Humanismo                            ★★★★★  (5/5)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672"
          id="flowPara8350">Antecedentes técnicos:               ★★☆☆☆  (1/5)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672"
@@ -1165,19 +1168,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672"
          id="flowPara8354">Antecedentes militares:              ★☆☆☆☆  (1/5)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672"
-         id="flowPara2021">Proyección de problemas en pacientes:☆☆☆☆☆  (0/5)</flowPara><flowPara
+         id="flowPara2021">Proyección de problemas en pacientes ☆☆☆☆☆  (0/5)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672"
-         id="flowPara8362">Amor propio:                         ★☆☆☆☆  (1/5)</flowPara><flowPara
-         id="flowPara7897"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672" /><flowPara
-         id="flowPara7899"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672" /><flowPara
-         id="flowPara7901"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672"
-         id="flowPara8356" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672"
-         id="flowPara8358" /></flowRoot>    <text
+         id="flowPara8358">Amor propio:                         ★☆☆☆☆  (1/5)</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="261.33334"
