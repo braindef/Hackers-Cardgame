@@ -470,7 +470,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.5752587"
-     inkscape:cx="171.46023"
+     inkscape:cx="122.53311"
      inkscape:cy="125.73266"
      inkscape:document-units="px"
      inkscape:current-layer="g7411"
@@ -493,7 +493,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1100,9 +1100,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:1.06666672"
          id="flowPara8284"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:'Monospace Bold';stroke-width:1.06666672"
-   id="flowSpan8292">N</flowSpan> <flowSpan
+   id="flowSpan8292">N </flowSpan><flowSpan
    style="line-height:10.66666698px"
-   id="flowSpan2025">neuroticismo</flowSpan>:       bajo</flowPara><flowPara
+   id="flowSpan2025">neuroticismoooo</flowSpan>:      bajo</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start;stroke-width:1.06666672"
          id="flowPara8286"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:'Monospace Bold';stroke-width:1.06666672"
@@ -1217,7 +1217,7 @@
            height="8.2373095"
            x="76.881554"
            y="239.24615" /></flowRegion><flowPara
-         id="flowPara2019"></flowPara></flowRoot>  </g>
+         id="flowPara2019" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="g7683"
