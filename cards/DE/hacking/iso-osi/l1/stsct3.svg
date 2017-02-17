@@ -44,14 +44,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2404919"
-     inkscape:cx="33.069303"
-     inkscape:cy="301.57741"
+     inkscape:zoom="1.620246"
+     inkscape:cx="117.84004"
+     inkscape:cy="177.19525"
      inkscape:document-units="px"
-     inkscape:current-layer="g36972"
+     inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="836"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -278,7 +278,7 @@
          y="324.53333"
          x="36.266666"
          id="tspan7287"
-         sodipodi:role="line">Use Cases</tspan>
+         sodipodi:role="line">Anwendungsfälle:</tspan>
     </text>
     <text
        xml:space="default"
@@ -294,7 +294,7 @@
          id="tspan7279"
          sodipodi:role="line"
          x="36.266666"
-         y="218.66667">Inventor</tspan>
+         y="218.66667">Erfinder:</tspan>
     </text>
     <text
        x="204.8"
@@ -310,7 +310,7 @@
          x="204.8"
          sodipodi:role="line"
          id="tspan7283"
-         y="218.66667">Year</tspan>
+         y="218.66667">Jahr:</tspan>
     </text>
   </g>
   <g

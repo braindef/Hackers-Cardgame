@@ -45,10 +45,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2913737"
-     inkscape:cx="126.19848"
-     inkscape:cy="293.18472"
+     inkscape:cx="72.082471"
+     inkscape:cy="186.69838"
      inkscape:document-units="px"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="704"
@@ -254,15 +254,15 @@
     <text
        xml:space="default"
        id="text7285"
-       y="330.66666"
+       y="346.66666"
        x="36.266666"
        style="font-size:12.80000019px;stroke-width:1.06666672">
       <tspan
          style="font-weight:bold;font-size:10.66666698px;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
-         y="330.66666"
+         y="346.66666"
          x="36.266666"
          id="tspan7287"
-         sodipodi:role="line">Use Cases</tspan>
+         sodipodi:role="line">Anwendungsfälle</tspan>
     </text>
     <text
        xml:space="default"
@@ -275,7 +275,7 @@
          id="tspan7279"
          sodipodi:role="line"
          x="36.266666"
-         y="218.66667">Inventor</tspan>
+         y="218.66667">Erfinder</tspan>
     </text>
     <text
        x="204.8"
@@ -541,7 +541,8 @@
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="flowRoot7659"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       transform="translate(0,18)"><flowRegion
          id="flowRegion7661"
          style="stroke-width:1.06666672"><rect
            y="331.73334"
@@ -551,7 +552,7 @@
            id="rect7663"
            style="stroke-width:1.13777781" /></flowRegion><flowPara
          id="flowPara7665"
-         style="text-align:justify;text-anchor:start;stroke-width:1.06666672">Censorship, manipulation or &quot;secrecy&quot;</flowPara></flowRoot>    <flowRoot
+         style="text-align:justify;text-anchor:start;stroke-width:1.06666672">Censorship or &quot;secrecy&quot;, manipulation </flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion

@@ -44,14 +44,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.5827474"
-     inkscape:cx="53.231977"
-     inkscape:cy="298.73915"
+     inkscape:zoom="1.6202459"
+     inkscape:cx="3.0640492"
+     inkscape:cy="259.91204"
      inkscape:document-units="px"
-     inkscape:current-layer="g42700"
+     inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="836"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -243,7 +243,7 @@
     <text
        xml:space="default"
        id="text7285"
-       y="324.53333"
+       y="334.53333"
        x="36.266666"
        inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Hackers-Cardgame/png/English/png/stsct1.png"
        inkscape:export-xdpi="375.67999"
@@ -251,10 +251,10 @@
        style="font-size:12.80000019px;stroke-width:1.06666672">
       <tspan
          style="font-weight:bold;font-size:10.66666698px;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
-         y="324.53333"
+         y="334.53333"
          x="36.266666"
          id="tspan7287"
-         sodipodi:role="line">Use Cases</tspan>
+         sodipodi:role="line">Anwendungsfälle:</tspan>
     </text>
     <text
        xml:space="default"
@@ -270,7 +270,7 @@
          id="tspan7279"
          sodipodi:role="line"
          x="36.266666"
-         y="218.66667">Inventor</tspan>
+         y="218.66667">Erfinder:</tspan>
     </text>
     <text
        x="204.8"
@@ -286,7 +286,7 @@
          x="204.8"
          sodipodi:role="line"
          id="tspan7283"
-         y="218.66667">Year</tspan>
+         y="218.66667">Jahr:</tspan>
     </text>
   </g>
   <g
@@ -488,7 +488,8 @@
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Hackers-Cardgame/png/English/png/stsct1.png"
        inkscape:export-xdpi="375.67999"
-       inkscape:export-ydpi="375.67999"><flowRegion
+       inkscape:export-ydpi="375.67999"
+       transform="translate(0,10)"><flowRegion
          id="flowRegion25141"
          style="stroke-width:1.06666672"><rect
            id="rect25143"
@@ -497,9 +498,9 @@
            x="40.533333"
            y="329.60001"
            style="stroke-width:1.13777781" /></flowRegion><flowPara
-         style="text-align:justify;text-anchor:start;stroke-width:1.06666672;font-size:10.66666667px"
+         style="font-size:9.33333653px;text-align:justify;text-anchor:start;stroke-width:1.06666672"
          id="flowPara7573">&quot;Maybe&quot; more than &quot;up to 8 Miles&quot;, see <flowSpan
-   style="-inkscape-font-specification:'Sans Bold';font-family:Sans;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold';font-size:9.33333653px"
    id="flowSpan4808">Amateur Radio</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="abstract"
@@ -517,7 +518,7 @@
            style="text-align:justify;text-anchor:start;stroke-width:1.13777781"
            ry="0" /></flowRegion><flowPara
          id="flowPara7589"
-         style="stroke-width:1.06666672">Like the professor said: &quot;I'm glad you asked. It just goes to show you that no matter how full your life may seem... FUCK, why did IBM gave the &quot;non-lucrative&quot; Operating-System-Market to Microsoft when Thomas J. Watsons usual business practice was to destroy all shops of all Competitors in 1920. The so called &quot;Normative Management&quot; to quote &quot;St. Galler Management-Modell&quot;</flowPara></flowRoot>    <text
+         style="stroke-width:1.06666672;font-size:9.33337733px">Like the professor said: &quot;I'm glad you asked. It just goes to show you that no matter how full your life may seem... FUCK, why did IBM gave the &quot;non-lucrative&quot; Operating-System-Market to Microsoft when Thomas J. Watsons usual business practice was to destroy all shops of all Competitors in 1920. The so called &quot;Normative Management&quot; to quote &quot;St. Galler Management-Modell&quot;</flowPara></flowRoot>    <text
        id="yearValue"
        y="218.66667"
        x="261.33334"
