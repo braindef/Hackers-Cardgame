@@ -44,14 +44,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6202459"
-     inkscape:cx="149.33333"
-     inkscape:cy="198.42667"
+     inkscape:zoom="12.961967"
+     inkscape:cx="25.872889"
+     inkscape:cy="358.42498"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g4822"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="836"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -2157,6 +2157,77 @@
            x="172.05814"
            y="1497.5708"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.13333321px;font-family:Symbola;-inkscape-font-specification:'Symbola Bold';text-align:center;text-anchor:middle;stroke-width:1.06666672">Ψ</tspan></text>
+    </g>
+  </g>
+  <g
+     transform="translate(0,0.00296876)"
+     style="display:inline"
+     inkscape:label="hacking"
+     id="g4822"
+     inkscape:groupmode="layer">
+    <g
+       transform="translate(90.801064,11.179931)"
+       style="display:inline;enable-background:new"
+       id="g4877">
+      <rect
+         inkscape:export-ydpi="375.63586"
+         inkscape:export-xdpi="375.63586"
+         inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t10.png"
+         rx="9.6000004"
+         y="21.248158"
+         x="-59.416332"
+         height="23.693232"
+         width="23.693232"
+         id="rect36536"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         ry="9.6000004" />
+      <text
+         id="text37440"
+         y="38.30328"
+         x="-47.569721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0509758px;line-height:17.53186035px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Symbola;-inkscape-font-specification:Symbola;text-align:center;text-anchor:middle;fill:#ffffff"
+           y="38.30328"
+           x="-47.569721"
+           id="tspan37438"
+           sodipodi:role="line">☠</tspan></text>
+      <g
+         id="g4882"
+         transform="translate(-90.709003,-10.974667)"
+         style="display:inline;enable-background:new">
+        <g
+           transform="matrix(1.0233912,0,0,1.0233912,-0.87814817,-0.88858204)"
+           id="g4888">
+          <circle
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             id="path15439-9"
+             cx="-330.79288"
+             cy="533.9447"
+             r="7.2392836"
+             transform="matrix(0.82200836,0,0,0.82200836,314.92585,-398.89911)" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.52608538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 39.707515,40.608616 c 0.853245,2.572755 2.130292,1.814732 3.432567,1.917796 1.518394,0.0904 2.523755,0.0983 3.218031,-1.960705"
+             id="path16209-7"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <circle
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             id="path15439-7-8"
+             cx="-333.07428"
+             cy="531.64197"
+             r="1.4081404"
+             transform="matrix(0.82200836,0,0,0.82200836,314.92585,-398.89911)" />
+          <circle
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             id="path15439-7-2-53"
+             cx="-328.38727"
+             cy="531.65265"
+             r="1.4081404"
+             transform="matrix(0.82200836,0,0,0.82200836,314.92585,-398.89911)" />
+        </g>
+      </g>
     </g>
   </g>
   <g

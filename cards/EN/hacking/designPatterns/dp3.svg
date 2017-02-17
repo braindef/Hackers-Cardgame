@@ -162,13 +162,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6202459"
-     inkscape:cx="149.33333"
-     inkscape:cy="198.42667"
+     inkscape:cx="72.801737"
+     inkscape:cy="97.207466"
      inkscape:document-units="px"
-     inkscape:current-layer="g7653"
+     inkscape:current-layer="g7819"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="836"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -394,7 +394,7 @@
      inkscape:groupmode="layer">
     <text
        x="36.266666"
-       y="332.79999"
+       y="340.79999"
        id="text7821"
        xml:space="default"
        style="font-size:12.80000019px;stroke-width:1.06666672">
@@ -402,8 +402,8 @@
          sodipodi:role="line"
          id="tspan7823"
          x="36.266666"
-         y="332.79999"
-         style="font-weight:bold;font-size:10.66666698px;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672">Anwendungsfälle</tspan>
+         y="340.79999"
+         style="font-weight:bold;font-size:10.66666698px;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672">Use Cases</tspan>
     </text>
     <text
        x="36.266666"
@@ -416,7 +416,7 @@
          x="36.266666"
          sodipodi:role="line"
          id="tspan7827"
-         style="font-weight:bold;font-size:10.66666698px;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672">Erfinder</tspan>
+         style="font-weight:bold;font-size:10.66666698px;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672">Inventor</tspan>
     </text>
   </g>
   <g
@@ -628,13 +628,14 @@
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="flowRoot7659"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       transform="translate(0,4)"><flowRegion
          id="flowRegion7661"
          style="stroke-width:1.06666672"><rect
            y="338.13333"
            x="40.533333"
-           height="31.982031"
-           width="218.33224"
+           height="31.982025"
+           width="217.71504"
            id="rect7663"
            style="stroke-width:1.13777781" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4666667px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:justify;text-anchor:start;stroke-width:1.06666672"

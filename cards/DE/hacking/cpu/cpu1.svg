@@ -162,11 +162,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2699906"
-     inkscape:cx="103.08234"
-     inkscape:cy="-175.75225"
+     inkscape:zoom="1.7960379"
+     inkscape:cx="215.80713"
+     inkscape:cy="148.00845"
      inkscape:document-units="px"
-     inkscape:current-layer="l12"
+     inkscape:current-layer="l11"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="704"
@@ -484,7 +484,7 @@
          id="tspan15529"
          sodipodi:role="line"
          x="34.191837"
-         y="218.96114">Inventor:</tspan>
+         y="218.96114">Erfinder:</tspan>
     </text>
     <text
        style="font-size:12.80000019px;text-align:end;text-anchor:end;stroke-width:1.06666672"
@@ -496,11 +496,11 @@
        inkscape:export-xdpi="359.20468"
        inkscape:export-ydpi="359.20468">
       <tspan
-         style="font-size:10.66666698px;font-weight:bold;text-align:end;text-anchor:end;stroke-width:1.06666672;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:10.66666698px;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;stroke-width:1.06666672"
          x="226.66667"
          sodipodi:role="line"
          id="tspan15533"
-         y="218.66667">Year:</tspan>
+         y="218.66667">Jahr:</tspan>
     </text>
   </g>
   <g
@@ -664,39 +664,44 @@
          id="flowPara7573">Go Doggy World-Population and try to find the Backdoors in Microsoft Windows but not in the Hardware...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="abstract"
-       style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:10.66666722px;font-family:Sans;-inkscape-font-specification:Sans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;"
        transform="translate(-6)"
        inkscape:export-filename="/home/marc/Hackers-Cardgame/png/EN/cpu1.png"
        inkscape:export-xdpi="359.20468"
        inkscape:export-ydpi="359.20468"><flowRegion
-         id="flowRegion25114"><rect
+         id="flowRegion25114"
+         style="line-height:10.66666722px;"><rect
            id="rect25116"
            width="230.20244"
            height="98.304054"
            x="40.533333"
            y="221.86667"
-           style="text-align:justify;text-anchor:start"
+           style="text-align:justify;text-anchor:start;line-height:10.66666722px;"
            ry="0" /></flowRegion><flowPara
          id="flowPara7589"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:Monospace;-inkscape-font-specification:Monospace">Hardware Backdoor... / Firmware Backdoor: See:</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:Monospace;-inkscape-font-specification:Monospace;line-height:10.66666722px;">Hardware Backdoor / Firmware Backdoor:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:Monospace;-inkscape-font-specification:Monospace;line-height:10.66666722px;"
+         id="flowPara520"></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:Monospace;-inkscape-font-specification:Monospace;line-height:10.66666722px;"
+         id="flowPara522">See:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:Monospace;-inkscape-font-specification:Monospace;line-height:10.66666722px;"
          id="flowPara892">https://media.ccc.de/v/32c3-7352-towards_reasonably_trustworthy_x86_laptops</flowPara></flowRoot>    <text
        id="yearValue"
        y="218.66667"
        x="261.33334"
-       style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"
        inkscape:export-filename="/home/marc/Hackers-Cardgame/png/EN/cpu1.png"
        inkscape:export-xdpi="359.20468"
        inkscape:export-ydpi="359.20468"><tspan
          id="tspan25184"
-         style="font-size:9px;font-weight:bold;text-align:end;text-anchor:end;fill:#ff0000;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:9px;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#ff0000"
          y="218.66667"
          x="261.33334"
-         sodipodi:role="line">~xxxx</tspan></text>
+         sodipodi:role="line">~1990</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="90.666664"
        y="218.66667"
        id="inventerValue"
@@ -707,7 +712,7 @@
          x="90.666664"
          y="218.66667"
          style="text-align:start;text-anchor:start;fill:#ff0000"
-         id="tspan24717-3">xxxx</tspan></text>
+         id="tspan24717-3">IBM = CIA</tspan></text>
   </g>
   <g
      transform="translate(0,0.00296876)"
