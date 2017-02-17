@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.65366473"
-     inkscape:cx="-12.456041"
-     inkscape:cy="450.62845"
+     inkscape:zoom="0.46221076"
+     inkscape:cx="433.78018"
+     inkscape:cy="499.28422"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1187,11 +1187,22 @@
      id="layer1"
      transform="translate(0,-328.81881)"
      style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.60000038px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
+       x="-800.61823"
+       y="563.23267"
+       id="text3791-0"><tspan
+         sodipodi:role="line"
+         id="tspan3793-2"
+         x="-800.61823"
+         y="585.88269"
+         style="stroke-width:1.06666672" /></text>
     <g
-       id="g1581"
-       transform="translate(-508.00219,-146.14329)">
+       id="g1988"
+       transform="translate(966.71634,275.0187)">
       <g
-         transform="translate(540.17393)"
+         transform="matrix(0.93594743,0,0,0.93594743,-573.98395,-9.6613652)"
          id="g343">
         <rect
            inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t15.png"
@@ -1465,15 +1476,16 @@
            ry="15.928889" />
       </g>
       <g
-         id="g496">
+         transform="matrix(0.93594743,0,0,0.93594743,-106.83927,-246.28617)"
+         id="g982">
         <rect
            inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t15.png"
            inkscape:export-ydpi="375.67999"
            inkscape:export-xdpi="375.67999"
            ry="15.928889"
            rx="15.928889"
-           y="502.1864"
-           x="319.5397"
+           y="368.65964"
+           x="-307.16321"
            height="364.0889"
            width="261.68887"
            id="rect11026-3"
@@ -1483,15 +1495,15 @@
            id="rect38747-6"
            width="257.63535"
            height="171.29269"
-           x="319.2757"
-           y="516.99524" />
+           x="-307.42722"
+           y="383.46848" />
         <rect
            style="display:inline;fill:none;stroke:#000000;stroke-width:9.0666666;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
            id="frameLeft-7"
            width="261.68887"
            height="364.0889"
-           x="319.5397"
-           y="502.18323"
+           x="-307.16321"
+           y="368.65646"
            rx="11.377778"
            ry="11.377778"
            inkscape:export-xdpi="375.67999"
@@ -1502,8 +1514,8 @@
            id="rect16606-5"
            width="261.68887"
            height="187.19704"
-           x="319.5397"
-           y="502.18323"
+           x="-307.16321"
+           y="368.65646"
            rx="11.377778"
            ry="11.377778"
            inkscape:export-xdpi="375.67999"
@@ -1514,8 +1526,8 @@
            inkscape:export-xdpi="375.67999"
            inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t15.png"
            rx="13.830706"
-           y="503.37585"
-           x="319.56116"
+           y="369.84909"
+           x="-307.14175"
            height="33.088181"
            width="261.646"
            id="rect7275-3"
@@ -1523,45 +1535,45 @@
            ry="13.830706" />
         <text
            style="font-size:13.65333366px;display:inline;stroke-width:1.13777781;enable-background:new"
-           x="327.50415"
-           y="819.19659"
+           x="-299.19876"
+           y="685.6698"
            id="text15523-5"
            xml:space="default">
           <tspan
              sodipodi:role="line"
              id="tspan15525-6"
-             x="327.50415"
-             y="819.19659"
+             x="-299.19876"
+             y="685.6698"
              style="font-weight:bold;font-size:9.10222244px;-inkscape-font-specification:'Sans Bold';stroke-width:1.13777781">Use Cases</tspan>
         </text>
         <text
            style="font-size:13.65333366px;display:inline;stroke-width:1.13777781;enable-background:new"
            xml:space="default"
            id="text15527-2"
-           y="705.84546"
-           x="327.50415">
+           y="572.31866"
+           x="-299.19876">
           <tspan
              style="font-weight:bold;font-size:11.37777805px;-inkscape-font-specification:'Sans Bold';stroke-width:1.13777781"
              id="tspan15529-9"
              sodipodi:role="line"
-             x="327.50415"
-             y="705.84546">Inventor:</tspan>
+             x="-299.19876"
+             y="572.31866">Inventor:</tspan>
         </text>
         <text
            style="font-size:13.65333366px;text-align:end;text-anchor:end;display:inline;stroke-width:1.13777781;enable-background:new"
-           x="532.87305"
+           x="-93.829849"
            id="text15531-1"
            xml:space="default"
-           y="705.84546">
+           y="572.31866">
           <tspan
              style="font-weight:bold;font-size:11.37777805px;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;stroke-width:1.13777781"
-             x="532.87305"
+             x="-93.829849"
              sodipodi:role="line"
              id="tspan15533-2"
-             y="705.84546">Year:</tspan>
+             y="572.31866">Year:</tspan>
         </text>
         <flowRoot
-           transform="translate(291.09525,472.60418)"
+           transform="translate(-335.60765,339.07741)"
            xml:space="preserve"
            id="useCasesValue-7"
            style="font-style:normal;font-weight:normal;font-size:9.10222244px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"><flowRegion
@@ -1575,7 +1587,7 @@
                style="stroke-width:1.13777781" /></flowRegion><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4666667px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:justify;text-anchor:start;stroke-width:1.06666672"
              id="flowPara7573-3">Statistics, check plausibilities of statements or other data</flowPara></flowRoot>        <flowRoot
-           transform="translate(291.09525,472.60418)"
+           transform="translate(-335.60765,339.07741)"
            xml:space="preserve"
            id="abstract-6"
            style="font-style:normal;font-weight:normal;font-size:9.10222244px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"><flowRegion
@@ -1591,62 +1603,51 @@
              id="flowPara7589-2"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4666667px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672">For example the distribution of intelligence in society, but you could also take the size of men, the number of households with kitchen mixer ... but you would have to find out whether it is really normal distribution, even paranormal distribution or just random or conicidence</flowPara></flowRoot>        <text
            id="yearValue-6"
-           y="705.84863"
-           x="569.85083"
+           y="572.32184"
+           x="-56.852066"
            style="font-style:normal;font-weight:normal;font-size:9.10222244px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
            xml:space="preserve"><tspan
              id="tspan25184-1"
              style="font-weight:bold;font-size:9.60000038px;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#ff0000;stroke-width:1.06666672"
-             y="705.84863"
-             x="569.85083"
+             y="572.32184"
+             x="-56.852062"
              sodipodi:role="line">~xxxx</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:9.10222244px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
-           x="387.80637"
-           y="705.84863"
+           x="-238.89653"
+           y="572.32184"
            id="inventerValue-8"><tspan
              sodipodi:role="line"
-             x="387.80637"
-             y="705.84863"
+             x="-238.89653"
+             y="572.32184"
              style="text-align:start;text-anchor:start;fill:#ff0000;stroke-width:1.06666672"
              id="tspan24717-3-7">xxxx</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:9.10222244px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
-           x="460.00604"
-           y="527.11829"
+           x="-166.69685"
+           y="393.59152"
            id="text8922-9"><tspan
              sodipodi:role="line"
-             x="460.00604"
-             y="527.11829"
+             x="-166.69685"
+             y="393.59152"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.06666756px;font-family:'MineCrafter 3';-inkscape-font-specification:'MineCrafter 3';fill:#ffffff;stroke-width:1.06666672"
              id="tspan15866-2">Title / Titel</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:25.60000038px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
-           x="593.45972"
-           y="563.31036"
-           id="text3791-0"><tspan
-             sodipodi:role="line"
-             id="tspan3793-2"
-             x="593.45972"
-             y="585.96039"
-             style="stroke-width:1.06666672" /></text>
         <rect
            inkscape:export-ydpi="375.67999"
            inkscape:export-xdpi="375.67999"
            inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t1.2.png"
            rx="10.808888"
-           y="507.19412"
-           x="324.5723"
+           y="373.66736"
+           x="-302.13062"
            height="25.272779"
            width="25.272779"
            id="rect7888-3"
            style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.13777781;enable-background:new"
            ry="10.808888" />
         <g
-           transform="translate(291.09525,472.60101)"
+           transform="translate(-335.60765,339.07424)"
            style="display:inline;enable-background:new"
            id="g4894-7">
           <g
@@ -1715,14 +1716,14 @@
            id="rect8612"
            width="43.613609"
            height="30.424219"
-           x="331.54861"
-           y="649.19269"
+           x="-295.1543"
+           y="515.66595"
            rx="0.22755556"
            ry="0.22755556" />
         <g
            style="display:inline;enable-background:new"
            id="g8680"
-           transform="translate(-47.142353,492.54345)">
+           transform="translate(-673.84525,359.01668)">
           <path
              inkscape:connector-curvature="0"
              id="path786-3-1"
@@ -1744,24 +1745,24 @@
            id="rect8612-3"
            width="45.015877"
            height="31.399815"
-           x="330.88065"
-           y="648.74463"
+           x="-295.82227"
+           y="515.2179"
            rx="0.56888884"
            ry="0.5688889" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:25.60000038px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
-           x="50.883488"
-           y="659.05908"
+           x="-275.9715"
+           y="455.15982"
            id="text3489"><tspan
              sodipodi:role="line"
-             x="50.883488"
-             y="659.05908"
+             x="-275.9715"
+             y="455.15982"
              id="tspan3493"
              style="stroke-width:1.06666672">Flags in the File</tspan><tspan
              sodipodi:role="line"
-             x="50.883488"
-             y="691.05908"
+             x="-275.9715"
+             y="487.15982"
              id="tspan3495"
              style="font-size:17.06666756px;stroke-width:1.06666672">./cards/templates/flags.svg</tspan></text>
         <rect
@@ -1769,13 +1770,13 @@
            id="rect12533-2"
            width="284.41519"
            height="385.12405"
-           x="308.17654"
-           y="492.42441"
+           x="-318.52637"
+           y="358.89764"
            rx="15.928889"
            ry="15.928889" />
       </g>
       <g
-         transform="translate(1080.3479)"
+         transform="matrix(0.93594743,0,0,0.93594743,-1108.3525,-9.6613652)"
          id="g625">
         <rect
            inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t15.png"
@@ -2041,7 +2042,7 @@
            ry="15.928889" />
       </g>
       <g
-         transform="translate(1620.5218)"
+         transform="matrix(0.93594743,0,0,0.93594743,-306.79966,-9.6613652)"
          id="g754">
         <rect
            style="display:inline;fill:#afdde9;fill-opacity:1;stroke-width:1.13777781;enable-background:new"
@@ -2307,7 +2308,7 @@
            ry="15.928889" />
       </g>
       <g
-         transform="translate(-1.3024546e-6,385.70543)"
+         transform="translate(-1129.0284,-415.13534)"
          id="g895">
         <rect
            inkscape:export-filename="/home/marc/Hackers-Cardgame/png/EN/cpu1.png"
@@ -2619,7 +2620,7 @@
            inkscape:export-ydpi="359.20468" />
       </g>
       <g
-         transform="translate(540.17393,385.70543)"
+         transform="translate(-327.47554,-415.13534)"
          id="g1015">
         <rect
            inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Hackers-Cardgame/png/English/png/stsct1.png"
@@ -2908,7 +2909,7 @@
            inkscape:export-ydpi="375.67999" />
       </g>
       <g
-         transform="translate(1080.3479,385.70543)"
+         transform="translate(-861.84411,-415.13534)"
          id="g1129">
         <rect
            inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Hackers-Cardgame/png/English/png/stsct1.png"
@@ -3183,7 +3184,7 @@
            inkscape:export-ydpi="375.67999" />
       </g>
       <g
-         transform="translate(1620.5218,385.70543)"
+         transform="translate(-861.84411,-53.536507)"
          id="g1243">
         <rect
            inkscape:export-filename="/home/marc/Daten.2017/myLife/Tagebuch/2017/januar/Hackers-Cardgame/png/EN/stsct3.png"
