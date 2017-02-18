@@ -7,7 +7,6 @@
 ../assembled/DE/A4/ra2-ja1-ja3-ma3-ra3-ja6-ma1-ma5.svg
 ../assembled/DE/A4/a9-a12-a5-a10-c1-c2-p2-mp1.svg
 ../assembled/DE/A4/last-giveaway.svg
-../assembled/DE/A4/templateA4.svg
 ../assembled/DE/A4/a6-a1-a7-a4-a2-a8-a3-a11.svg
 ../assembled/DE/A4/t5-t10-t4-dp3-dp4-dp1-dp2-cpu1.svg
 ../assembled/DE/A4/p5-p6-p3-p4-p1-mp2-at1-ma9.svg
