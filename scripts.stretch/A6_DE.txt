@@ -84,12 +84,12 @@
 ../cards/DE/methods/m35.svg
 ../cards/DE/methods/m21.svg
 ../cards/DE/methods/m14.svg
-../cards/DE/brain/b1.svg
-../cards/DE/brain/b2.svg
 ../cards/DE/medicine/biology/b1.svg
 ../cards/DE/medicine/brain/b1.svg
 ../cards/DE/medicine/brain/b2.svg
 ../cards/DE/medicine/brain/b3.svg
+../cards/DE/medicine/brain/b2.2.svg
+../cards/DE/medicine/brain/b1.2.svg
 ../cards/DE/medicine/brain/b1-b1-b2-b3-t15-t16-t8-t3.svg
 ../cards/DE/technologies/t15.svg
 ../cards/DE/technologies/t16.svg
