@@ -1,8 +1,11 @@
 #!/bin/bash
 
-xdg-open ./PrinterSettings.png
+xdg-open ../website/images/PrinterSettings.png
 
-echo -n "Press [ENTER] if you changed the settings."
+echo -n "
+usage: printAll.sh assembled/DE/A4
+
+Press [ENTER] if you changed the settings."
 read answer
 
 #unfortunately inkscape -p has a bug in debian jessie => Workarround
@@ -34,7 +37,7 @@ echo -e "\e[31mmy printer-firmware seems to hate this cards, even it has no rout
 read answer
 
 
-find ./cards -name "*.svg" >./print.txt
+find ../$1 -name "*.svg" >./print.txt
 
 
 echo -e "\e[34mPlease put $(cat ./print.txt |wc -l) A6 Cards \e[31m
