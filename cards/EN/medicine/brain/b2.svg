@@ -32,8 +32,9 @@
        id="clipPath318-1">
       <path
          inkscape:connector-curvature="0"
-         d="m 1306.794,-1020.6572 c 0,0 -85.0401,0 -85.0401,0 0,0 0,-56.6929 0,-56.6929 0,0 85.0401,0 85.0401,0 0,0 0,56.6929 0,56.6929 z"
-         id="path320-8" />
+         d="m 1393.9136,-1088.701 c 0,0 -90.7094,0 -90.7094,0 0,0 0,-60.4724 0,-60.4724 0,0 90.7094,0 90.7094,0 0,0 0,60.4724 0,60.4724 z"
+         id="path320-8"
+         style="stroke-width:1.06666672" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -43,11 +44,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2876294"
-     inkscape:cx="-7.5441069"
-     inkscape:cy="195.32019"
+     inkscape:zoom="1.6202459"
+     inkscape:cx="-3.7298561"
+     inkscape:cy="193.48915"
      inkscape:document-units="px"
-     inkscape:current-layer="g7653"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="704"
@@ -250,16 +251,16 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="default"
        id="text7285"
-       y="324.26666"
+       y="328.53333"
        x="36.266666"
        style="font-size:12.80000019px;stroke-width:1.06666672">
       <tspan
          style="font-weight:bold;font-size:10.66666698px;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
-         y="324.26666"
+         y="328.53333"
          x="36.266666"
          id="tspan7287"
          sodipodi:role="line">Use Cases</tspan>
@@ -292,13 +293,13 @@
     </text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
     <text
        x="36.266666"
-       y="328.53333"
+       y="326.53333"
        id="text7821"
        xml:space="default"
        style="font-size:12.80000019px;stroke-width:1.06666672">
@@ -306,7 +307,7 @@
          sodipodi:role="line"
          id="tspan7823"
          x="36.266666"
-         y="328.53333"
+         y="326.53333"
          style="font-weight:bold;font-size:10.66666698px;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672">Anwendungsfälle</tspan>
     </text>
     <text
@@ -537,21 +538,21 @@
          x="160.35385"
          y="53.106987"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.20000076px;font-family:NASDAQER;-inkscape-font-specification:NASDAQER;fill:#ffffff;stroke-width:1.06666672"
-         dy="-2.1333334">Pituitary gland</tspan></text>
+         dy="-3.2">Hypophyse</tspan></text>
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="flowRoot7659"
        xml:space="preserve"><flowRegion
          id="flowRegion7661"
          style="stroke-width:1.06666672"><rect
-           y="327.46667"
+           y="329.60001"
            x="40.533333"
            height="31.982031"
            width="218.33224"
            id="rect7663"
            style="stroke-width:1.13777781" /></flowRegion><flowPara
          id="flowPara7665"
-         style="text-align:justify;text-anchor:start;stroke-width:1.06666672">Controls the hormonal system of the human body, can be influencet with chemical substances, as well as with conditioning, sport...</flowPara></flowRoot>    <flowRoot
+         style="text-align:justify;text-anchor:start;stroke-width:1.06666672">Steuert Hormonsystem des (meschlichen) Körpers, kann sowohl mit chemischen Stoffen aber auch mit zB. antrainierten Stimuli beeinflusst werden</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -565,7 +566,7 @@
            width="218.51003"
            id="rect7671" /></flowRegion><flowPara
          id="flowPara7673"
-         style="stroke-width:1.06666672">The hypophysis (gr. Ὑπόφυσις hypóphysis) is a hormonal gland, which plays a central role in the regulation of the hormone system in the body. It is a kind of interface with which the brain regulates the release of hormonal processes such as growth, reproduction and other metabolisms</flowPara></flowRoot>    <text
+         style="stroke-width:1.06666672">Die Hypophyse (gr. ὑπόφυσις hypóphysis „das unten anhängende Gewächs“) ist eine Hormondrüse, der eine zentrale übergeordnete Rolle bei der Regulation des Hormonsystems im Körper zukommt. Sie ist eine Art Schnittstelle, mit der das Gehirn über die Freisetzung von Hormonen Vorgänge wie Wachstum, Fortpflanzung und Stoffwechsel reguliert </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="261.33334"
@@ -586,7 +587,7 @@
          style="text-align:start;text-anchor:start;fill:#ff0000;stroke-width:1.06666672"
          y="218.66667"
          x="90.666664"
-         sodipodi:role="line">God</tspan></text>
+         sodipodi:role="line">Gott</tspan></text>
   </g>
   <g
      transform="translate(0,0.00296876)"
