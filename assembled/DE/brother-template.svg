@@ -103,13 +103,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.65366473"
-     inkscape:cx="262.14956"
-     inkscape:cy="322.1222"
+     inkscape:cx="24.260023"
+     inkscape:cy="316.00285"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -130,11 +130,10 @@
      id="layer2"
      inkscape:label="backside"
      transform="translate(0,396.8504)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g7571"
-       transform="translate(-110.29762,-121.75862)">
+       transform="translate(-112.29788,-121.75862)">
       <g
          id="g6862">
         <rect
