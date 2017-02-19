@@ -45,7 +45,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.87622635"
-     inkscape:cx="99.41747"
+     inkscape:cx="-128.83405"
      inkscape:cy="224.77834"
      inkscape:document-units="px"
      inkscape:current-layer="layer18"
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -177,7 +177,7 @@
          y="502.02161"
          style="font-weight:normal;font-size:8px;-inkscape-font-specification:Sans;stroke-width:1.06666672">https://github.com/braindef/Shrink-Disorder-Tarot</tspan></text>
     <rect
-       style="display:inline;opacity:0.71929824;fill:none;stroke:#000100;stroke-width:0.54503554;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       style="display:inline;opacity:0.71929824;fill:#ffffff;stroke:#000100;stroke-width:0.54503554;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect12533-6"
        width="266.63925"
        height="361.0538"
@@ -185,13 +185,16 @@
        y="6.5087667"
        rx="14.933333"
        ry="14.933333"
-       inkscape:export-filename="/home/claude/Daten.2017/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot-0.2.0/png/EN/s1.png"
+       inkscape:export-filename="/home/marc/Hackers-Cardgame/website/back4.png"
        inkscape:export-xdpi="359.28"
        inkscape:export-ydpi="359.28" />
     <g
        style="display:inline;enable-background:new"
        id="g6621"
-       transform="matrix(0.91595896,0,0,0.91595896,-434.80486,3.25624)">
+       transform="matrix(0.91595896,0,0,0.91595896,-434.80486,3.25624)"
+       inkscape:export-filename="/home/marc/Hackers-Cardgame/website/back4.png"
+       inkscape:export-xdpi="359.28"
+       inkscape:export-ydpi="359.28">
       <g
          transform="translate(-0.38638102,-10)"
          id="g5059"
@@ -268,7 +271,10 @@
     <g
        style="display:inline;enable-background:new"
        id="g8829"
-       transform="matrix(1.3783133,0,0,1.3783133,-508.45276,-52.6582)">
+       transform="matrix(1.3783133,0,0,1.3783133,-508.45276,-52.6582)"
+       inkscape:export-filename="/home/marc/Hackers-Cardgame/website/back4.png"
+       inkscape:export-xdpi="359.28"
+       inkscape:export-ydpi="359.28">
       <text
          id="text8713"
          y="93.836823"

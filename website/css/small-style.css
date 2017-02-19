@@ -1,23 +1,25 @@
 html {
 /*padding: 8px 25px;
 list-style: none; */
-background: #282828;
-color: #ffffff; 
-font-family: monospace; 
+  background: #282828;
+  color: #ffffff; 
+  font-family: monospace; 
+  text-align: center
+
 }
 
 iframe {
-overflow:hidden
+  overflow:hidden
 }
 
 /* unvisited link */
 a:link {
-    color: #FFFFFF;
+  color: #FFFFFF;
 }
 
 /* visited link */
 a:visited {
-    color: #BBBBBB;
+  color: #BBBBBB;
 }
 
 
