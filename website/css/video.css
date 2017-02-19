@@ -21,7 +21,7 @@
 
 video
 {
-  height: 230px;
+  height: 150px;
 }
 
 
@@ -33,7 +33,7 @@ figcaption
 
 iframe {
   width: 90%;
-  height: 500;
-  overflow:hidden;
+  height: 350px;
+  overflow: hidden;
 }
 
