@@ -1,9 +1,13 @@
 
-html { text-align: center }
+html
+{
+  text-align: center
+}
 
 p
 {
   display: none;
+  padding: 10px 80px 20px 80px;	
 }
 
 body.en > p[lang=en] 
