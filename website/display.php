@@ -15,6 +15,7 @@
    echo "display=" . $_GET["display"];
    echo "width=" . $_GET["width"];
    echo "height=" . $_GET["height"]."<br>";
+   echo rand(0, 5);
 
 if (empty($_GET["mode"])) {
  $mode="flip"; 
