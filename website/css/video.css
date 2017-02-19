@@ -31,4 +31,9 @@ figcaption
 }
 
 
+iframe {
+  width: 90%;
+  height: 500;
+  overflow:hidden;
+}
 
