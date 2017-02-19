@@ -1,0 +1,25 @@
+
+ p
+ {
+   display: none;
+ }
+
+ body.en > p[lang=en] 
+ {
+   display: inline-block;
+ }
+
+ body.de > p[lang=de] 
+ {
+   display: inline-block;
+ }
+ 
+ body.fr > p[lang=fr] 
+ {
+   display: inline-block;
+ }
+*/
+/* Hide all language related elements:  
+html .lang { display: none; }  */
+
+
