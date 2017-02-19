@@ -27,7 +27,8 @@ cat ./jpg_$1.txt
 for f in $(cat ./jpg_$1.txt)
  do
   echo $f
-convert -format jpg -background white -quality 50 $(dirname $f)/$(basename $f .png).png ../jpg/$1/$(basename $f .png).jpg
+  convert $f -background white -flatten $f
+convert -format jpg -quality 50 $(dirname $f)/$(basename $f .png).png ../jpg/$1/$(basename $f .png).jpg
 done
 
 

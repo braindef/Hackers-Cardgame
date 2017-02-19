@@ -65,6 +65,7 @@
 ../png/DE/stsct2.png
 ../png/DE/ra3.png
 ../png/DE/mp1.png
+../png/DE/p1-white.png
 ../png/DE/m24.png
 ../png/DE/m30.png
 ../png/DE/m4.png
