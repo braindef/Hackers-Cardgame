@@ -16,7 +16,7 @@
    echo "width=" . $_GET["width"];
    echo "height=" . $_GET["height"]."<br>";
    $backSide=rand(0,5);
-   echo "back=" . $backside;
+   echo "back=" . $backSide;
 
 if (empty($_GET["mode"])) {
  $mode="flip"; 
