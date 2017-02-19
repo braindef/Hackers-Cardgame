@@ -6,8 +6,8 @@ then
 	\e[39m
 	Usage:
 	------
-	To generate the Enlgish jpg's: \e[36m convert2JPGs.sh EN\e[39m
-	To generate the German  A6 sheets: \e[36m./generateA6.sh DE\e[39m
+	To generate the Enlgish jpg's: \e[36mconvert2JPGs.sh EN\e[39m
+	To generate the German  jpg's: \e[36mconvert2JPGs.sh DE\e[39m
 
 
 	"
