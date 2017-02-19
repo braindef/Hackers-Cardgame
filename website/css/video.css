@@ -1,49 +1,34 @@
-.containerDiv
+.parentDiv
 {
-  width: 95%;
-
+  display: inline-block;
+  width: 90%;
+  margin: 0 auto;
 
   clear: both;
 }
 
-.float-left {
-    float: left;
-
+.twoChildDivs
+{
+  float: left;
+  width: 50%;
 }
 
-figure
+.threeChildDivs
 {
-  width: 25%;
-
+  float: left;
+  width: 33%;
 }
 
 video
 {
-  height: 200px;
+  height: 230px;
 }
 
-.two
-{
-  float: left;
-}
-
-.float-right {
-  float: right;
-  text-align: center;
-}
-
-.clear {
-  clear: both;
-}
-
-.center
-{
-  margin-left: auto;
-  margin-right: auto;
-}
 
 figcaption
 {
   text-align: center;
 }
+
+
 
