@@ -1,4 +1,6 @@
 
+html { text-align: center }
+
 p
 {
   display: none;
@@ -36,3 +38,33 @@ button
   border: none;
   width: 62px;
 }
+
+
+.centerDiv 
+{
+  width: 100%;
+  height:600px;
+  margin: 0 auto;
+}
+
+.div1
+{
+  width: 50%;
+  height:700px;
+  float:left;
+  overflow:hidden;
+}
+
+.div2
+{
+  width: 50%;
+  height:700px;
+  float: left;
+}
+
+.no-slider
+{
+  overflow:hidden;
+  text-align:center;
+} 
+
