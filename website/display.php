@@ -60,6 +60,7 @@ $ext = strtolower(pathinfo($image, PATHINFO_EXTENSION));
 if (in_array($ext, $supported_file)) {
 
 if ($mode=="flip") {
+ $backSide = rand(0, 5);
  echo '<iframe frameBorder="0" text-align=center height="'.$height.'" width="'.($width+20).'" src="./card.php?front='.$image .'&back=back'.$backSide.'.jpg&width='.$width.'&height='.$height.'"></iframe> ';
 
 }
