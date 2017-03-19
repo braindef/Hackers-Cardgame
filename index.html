@@ -1,84 +1,151 @@
 <!DOCTYPE html>
-<html lang="de">
+<html>
   <head>
     <meta charset="utf-8"/>
-    <link rel="stylesheet" type="text/css" href="./website/small-style.css" target="_blank">
-    <link rel="stylesheet" type="text/css" href="./website/video.css" target="_blank">
-    <h1>Shrink Disorder Tarot<br><font size=2 color=grey>Psychiater Quartett / Psychiatrie Quartett / Shrink Disorder Game</font></h1>
-  </head>
-  <body>
-  <a href="./index.html"><img src="./website/images/DE.png" height=50></a> <a href="./index_EN.html"><img src="./website/images/EN.png" height=50></a> <a href="./index.html"><img src="./website/images/by-nc-sa.png" height=50></a>
-<h3>Disclamer: wie z.B. das tor OONIPROBE, <font class=blink>THIS PROJECT <a href="http://marclandolt.ch/ml_buzzernet/2015/10/11/ooniprobe-the-onion-router-auf-debian-jessie-installieren#someRisk"><font color=tomato>involves "some" Risk</font></font></a> <br>
-<font color=tomato>Use eg. <a href="https://www.torproject.org/">The Onion Router</a> or <a href="https://tails.boum.org/index.de.html" target="_blank"><font color=yellow>TAILS</font></a> </font> (will NOT help, if your Endpoint is already under Survaillance)</h3>
+    <link rel="stylesheet" type="text/css" href="./website/css/small-style.css" target="_blank">
+    <link rel="stylesheet" type="text/css" href="./website/css/video.css" target="_blank">
+    <link rel="stylesheet" type="text/css" href="./website/css/multiLang.css" target="_blank">
+    <h1>Hackers-Cardgame
+      <br>
+      <font size=2 color=grey>Psychiater Quartett / Shrink Disorder Tarot</font>
+    </h1>
 
-<a href="https://github.com/braindef/Shrink-Disorder-Tarot-0.2.0"><font size=7 color=lightgreen>NEW GIT Repository</font></a> <a href="https://github.com/braindef/Shrink-Disorder-Tarot"><font color=yellow>old GIT Repository</font></a><br><br> <a href="https://inkscape.org/de/herunterladen/"><font color=yellow>Inkscape</font></a> auf <a href="https://www.gnu.org/software/software.html"><font color=tomato>GNU</font></a> <a href="https://www.debian.org/distrib/"><font color=lightblue>debian jessie/stretch</font></a> <a href="https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Supercomputers">Linux</a> z.B. <a href="https://www.youtube.com/watch?v=Fl2Y8IHC3aQ">auf USB >> 3.0 << Stick installieren</a><br><font color=tomato>am besten zuvor seine Windows HardDisk physikalisch ausziehen, dann macht man sein Windwos nicht aus Versehen kaputt (gibt ev. Ärger mit dem Secure Boot)</font><br><br>
 
-Fuer Windows und OSX gibt es zur Zeit erst ein <a href="./website/display.php?dir=pdf/DE/A6&mode=list">PDF A6</a>  <a href="./website/display.php?dir=pdf/DE/A4&mode=list">PDF A4</a>  udn auf English <a href="./website/display.php?dir=pdf/EN/A6&mode=list">PDF A6</a>  <a href="./website/display.php?dir=pdf/EN/A4&mode=list">PDF A4</a> 
-<br>
-<br>
-<p>
-<b>Ausdrucken</b> geht am besten auf A4 oder A6 <b>Halbkarton Karten</b> <a href="https://produkte.migros.ch/papeteria-a6-schreib-und-bastelkarten">(250 g/m²)</a> Papier unter 250 g/m² wird nicht so toll. Ohne Laminieren z.B. auf Fotopapier oder mit Laminieren auf normales 250 g/m² Papier. Nach dem Drucken der Vorderseite, muss man die Karten (zumindest in meinem Drucker) wieder gerade biegen, sonst verhäddern sich diese komplett, ausserdem muss man den Laser-Druckern auf "Dickes Papier" stellen, damit es den Toner genug einbrennt</font>
-</p><br><br>
-<p>
-<figure class=float-left>
-<video height="230" controls>  <source src="./website/HOWTO/Printing-Cards.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<figcaption><br><font color=tomato size=5>Drucken auf Debian Linux</font></figcaption>
-</figure>
-<figure class=float-left>
-  <video height="230" controls autoplay>
-  <source src="./website/HOWTO/windoof.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
-<figcaption><br><font color=lightblue size=5>Drucken auf Windows</font></figcaption>
-</figure>
-<figure class=clear>
- <video height="230" controls>
-  <source src="./website/HOWTO/deploy.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
-<figcaption><br><font color=white size=5>Eigene webseite betreiben</font></figcaption>
-</figure>
-<br>
+<a href="http://marclandolt.ch/ml_buzzernet/2015/10/11/ooniprobe-the-onion-router-auf-debian-jessie-installieren#someRisk">involves "some" Risk  ★★★★☆ (4/5)</a> <br>
+<font size=8 color=yellow class=blink>☠</font> Use eg. <a href="https://www.torproject.org/" target="_blank">The Onion Router</a> or <a href="https://tails.boum.org/index.de.html" target="_blank"><font color=yellow>TAILS</font></a> <font size=8 color=yellow class=blink>☠</font> <br>
+<font color=tomato>(will NOT help, if your Endpoint is already under Survaillance)</font>
 </p>
 <br>
 <br>
-<br>
+  </head>
+  <body align="center">
+   <br>
+    <!--language selection-->
+      <h2><font color=yellow><u>Please select Language:</u></font></h2>
+      <button onclick="document.body.className='en'"><img height=40 src="./website/images/EN.png"/></button>
+      <button onclick="document.body.className='de'"><img height=40 src="./website/images/DE.png"/></button>
+      <button onclick="document.body.className='fr'"><img height=40 src="./website/images/FR.png"/></button>
+      <button onclick="document.body.className='it'"><img height=40 src="./website/images/IT.png"/></button>
+      <button onclick="document.body.className='es'"><img height=40 src="./website/images/ES.png"/></button>
+      <button onclick="document.body.className='cc'"><img src="./website/images/by-nc-sa.png" height=40></a></button>
+      <br>
 
- <iframe text-align=center width=1400 height=730 src="./website/display.php?dir=website/cardcombinations/activeDenialSystemBrain"></iframe> 
+      <p lang="en">English Version</p>
+      <p lang="en">
+      <b>Print</b> works best on A4 oder A6 <b>Cards</b> <a href="https://produkte.migros.ch/papeteria-a6-schreib-und-bastelkarten">(250 g/m²)</a> Paper below 250 g/m² does not work well. To laminate or printing them on Photo Paper is a plus. After you printed the frontside, you must print the backside to and depending on the printer you have to adjust the printing offset in the template for the back side.<br><br>
+    <a href="./website/display.php?dir=jpg/EN">All Cards</a> <a href="./website/display.php?dir=pdf/EN/A4&mode=list">A4 Templates</a> <a href="./website/display.php?dir=pdf/EN/A6&mode=list">A6 Templates</a> 
+    <br>
+    <br>
+    <br>
+    <a href="./website/display.php?dir=jpg/EN">All Cards</a>
+    <br>
+    <br>
+    Source: <a href="https://github.com/braindef/Hackers-Cardgame">https://github.com/braindef/Hackers-Cardgame/</a>
+      </p>
+      <p lang="de">Deutsche Version</p>
+      <p lang="de">
+      <b>Ausdrucken</b> geht am besten auf A4 oder A6 <b>Halbkarton Karten</b> <a href="https://produkte.migros.ch/papeteria-a6-schreib-und-bastelkarten">(250 g/m²)</a> Papier unter 250 g/m² wird nicht so toll. Ohne Laminieren z.B. auf Fotopapier oder mit Laminieren auf normales 250 g/m² Papier. Nach dem Drucken der Vorderseite, muss man die Karten (zumindest in meinem Drucker) wieder gerade biegen, sonst verhäddern sich diese komplett, ausserdem muss man den Laser-Druckern auf "Dickes Papier" stellen, damit es den Toner genug einbrennt.<br><br>
+    <a href="./website/display.php?dir=jpg/DE">Alle Karten</a> <a href="./website/display.php?dir=pdf/DE/A4&mode=list">A4 Vorlagen</a> <a href="./website/display.php?dir=pdf/DE/A6&mode=list">A6 Vorlagen</a> 
+    <br>
+    <br>
+    Source: <a href="https://github.com/braindef/Hackers-Cardgame">https://github.com/braindef/Hackers-Cardgame/</a>
+      </p>
 
-<a href="./website/display.php?dir=website/cardcombinations/activeDenialSystemBrain">ActiveDenialSystemBrain</a>
-<a href="./website/display.php?dir=website/cardcombinations/activeDenialSystemBrain&mode=list">ActiveDenialSystemBrain List Mode</a>
+      <p lang="fr">Français: Pas encore traduit</p>
+      <p lang="it">Italiano: Non ancora tradotto</p>
+      <p lang="es">Español: Todavía no ha sido traducido</p>
+      <br>
+
+<div height=200 class=containerDiv>
+
+  <div class=threeChildDivs>
+  <figure class=float-left>
+    <video controls autoplay>
+      <source src="./website/HOWTO/Printing-Cards.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption><br><font color=tomato size=5>Drucken auf Debian Linux</font></figcaption>
+  </figure>
+  </div>
+
+  <div class=threeChildDivs>
+  <figure class=float-left>
+    <video controls>
+      <source src="./website/HOWTO/windoof.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video> 
+    <figcaption><br><font color=lightblue size=5>Drucken auf Windows</font></figcaption>
+  </figure>
+  </div>
+
+  <div class=threeChildDivs>
+  <figure class=float-left>
+    <video controls>
+    <source src="./website/HOWTO/deploy.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video> 
+    <figcaption><br><font color=white size=5>Eigener Cardgame-Server</font></figcaption>
+  </figure>
+  </div>
+
+</div>
 
 
-<br><br>
-[ <a href="./website/display.php?dir=png/DE"><font color=tomato>Alle karten auf Deutsch</font></a> <a href="./website/display.php?dir=png/DE&mode=list">Listen Modus</a> | <a href="./website/display.php?dir=png/EN"><font color=tomato>All Cards</font></a> <a href="./website/display.php?dir=png/EN&mode=list">list mode</a> ]
-
-<br><br><br><br>
-<br>Wissenschftlich würde man hier von einem <a href="https://www.google.ch/search?q=Morphologischen+Kasten&safe=off&tbm=isch&tbo=u&source=univ&sa=X#imgrc=w5qQjPnMheMuOM%3A" target="_blank">Morphologischen Kasten</a> sprechen. <font color=tomato>(ACHTUNG, referenziert auf Google Content, Google ist eh ueberwacht und daraus generieren die "netten" Agenten dann Marketing-Profile oder komplette Abbilder von den Kindern/Nutzern, bzw. von ihre intimsten privaten Gedanken)</font><br> 
-
-<h2>Passendes Case dazu: Fr. 4.--</h2>
-<a href="./website/images/box1.png"><img src="./website/images/box1.png" height=200></a> <a href="./website/images/box2.png"><img src="./website/images/box2.png" height=200></a> <a href="./website/images/box3.png"><img src="./website/images/box3.png" height=200></a>
-
-
-<h2><a href="./website/HOWTO/">Dokumentation</a></h2>
-
-<h2>Motivation dieses Projektes</h2>
-Konzept um spielierisch zu zeigen, wie die Ãlteren Generationen Technologie missbrauchen um die Kinder als "nutzbare" Sklaven zu halten.
-
-<h3>Autismus</h3>
-Grundsätzlich wäre es wohl möglich, einem Autisten mit <a href="https://en.wikipedia.org/wiki/Picture_Exchange_Communication_System">PECS</a> kompletten Schwachsinn aufzuspielen und irgendwelche pädo-kriminellen Eltern fänden das allenfalls auch noch "ulkig", mit PECS würde man dem missbrauchten Autisten auch abrichten und "fernbedinet" koennen, die Karten sind so zu sagen das <a href="https://docs.oracle.com/javase/tutorial/reflect/">Refelction API</a> um Kindern schon frÃ¼h ziegen zu kÃ¶nne wie der Missbrauch durch die El(s)tern-Generation funktioniert und wie man sich dagegen wehren kann.
-
-<h3>Artverwandte Themen</h3>
-<a href="http://psychiatrie-leaks.ch/"><font size=4em color=lightblue>http://psychiatrie-leaks.ch/</font></a> <a href="http://suizid-app.ch/"><font size=4em color=tomato>http://suizid-app.ch/</font></a>
+<div class=containerDiv>
+  <div class=twoChildDivs>
+    <figure style="background-color: lightblue;">
+      <figcaption><h2>Boys</h2></figcaption>
+      <iframe src="./website/display.php?dir=website/cardcombinations/boys/DE&width=120&height=180"></iframe> 
+      <figcaption><a href="./website/display.php?dir=website/cardcombinations/boys/DE">Boys</a></figcaption>
+    </figure>
+  </div>
 
 
-<h2><font color=yellow>Rechtliches</font></h2>
-<font color=yellow>Möge dieses Repo unter Creative Commons by-nc-sa stehen + mögen die Lizenzbedingungen für den Fall dass damit Kinder oder Jüngere geschützt werden können auch umgangen werden...</font>
-<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">https://creativecommons.org/licenses/by-nc-sa/4.0/</a>
+  <div class=twoChildDivs>
+    <figure style="background-color: pink;">
+      <figcaption><h2>Girls</h2></figcaption>
+      <iframe src="./website/display.php?dir=website/cardcombinations/girls/DE&width=120&height=180"></iframe>  
+      <figcaption><a href="./website/display.php?dir=website/cardcombinations/girls/DE">Girls</a></figcaption>
+    </figure>
+  </div>
 
-    </pre><br><br>
-<font color=orange>[ Marc Landolt jun. | Rombachtäli 13 | 5022 Rombach | Switzerland | <strike>+41 79 291 07 87</strike> | www.marclandolt.ch ]</font><br><br>
+</div>
+
+
+
+
+<div class=containerDiv>
+
+  <figure>
+    <figcaption><h2></h2></figcaption>
+    <iframe src="./website/display.php?dir=website/cardcombinations/psyCards/DE&width=120&height=180"></iframe>
+    <figcaption><a href="./website/display.php?dir=website/cardcombinations/psyCards">Cause</a></figcaption>
+  </figure>
+
+</div>
+
+<div height=200 class=containerDiv>
+
+  <div class=twoChildDivs>
+    <figure>
+      <figcaption><h2>Technology Cards</h2></figcaption>
+      <iframe src="./website/display.php?dir=website/cardcombinations/techCards/DE"></iframe>  
+      <figcaption><a href="./website/display.php?dir=website/display.php?dir=website/cardcombinations/techCards/DE">Technology Cards</a></figcaption>
+    </figure>
+  </div>
+
+  <div class=twoChildDivs >
+    <figure style="background: #AAA;" class=two>
+      <figcaption><h2>hidden COM-Channel</h2></figcaption>
+      <iframe src="./website/display.php?dir=website/cardcombinations/virtual-voices/DE"></iframe>  
+      <figcaption><a href="./website/display.php?dir=./website/display.php?dir=website/cardcombinations/virtual-voices/DE">COM-Channel</a></figcaption>
+      </figure>
+  </div>
+</div>
+
+<a href="http://marclandolt.ch/Hackers-Cardgame/website/display.php?dir=jpg/EN&mode=display">all jpg</a>
+
+
+
   </body>
 </html>
