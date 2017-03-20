@@ -73,6 +73,10 @@ if ($mode=="display") {
  echo  '<iframe frameBorder="0" text-align=center height='.$height.' width='.$width.' src="'.$image.'"></iframe></a>';
 }
 
+if ($mode=="img") {
+ echo  ' <a href="'.$image.'"><img height='.$height.' width='.$width.' src="'.$image.'"></a>';
+}
+
 } else {
     continue;
  }
