@@ -9,14 +9,14 @@
 
 <?php
 //mode: list, display, flip
-   echo "../".$_GET["dir"]."/*.*<br>";
-   echo "mode=". $_GET["mode"];
-   echo "flipping=". $_GET["flipping"];
-   echo "display=" . $_GET["display"];
-   echo "width=" . $_GET["width"];
-   echo "height=" . $_GET["height"]."<br>";
-   $backSide=rand(0,5);
-   echo "back=" . $backSide;
+//   echo "../".$_GET["dir"]."/*.*<br>";
+//   echo "mode=". $_GET["mode"];
+//   echo "flipping=". $_GET["flipping"];
+//   echo "display=" . $_GET["display"];
+//   echo "width=" . $_GET["width"];
+//   echo "height=" . $_GET["height"]."<br>";
+//   $backSide=rand(0,5);
+//   echo "back=" . $backSide;
 
 if (empty($_GET["mode"])) {
  $mode="flip"; 
