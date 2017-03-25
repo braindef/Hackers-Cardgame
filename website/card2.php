@@ -40,7 +40,7 @@ $height=$_GET["height"];
 
 /* flip speed goes here */
 .flipper {
-	transition: 3s;
+	transition: 1.5s;
 	transform-style: preserve-3d;
 
 	position: relative;
@@ -79,11 +79,12 @@ $height=$_GET["height"];
 
 <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
 	<div class="flipper">
-		<div align="center" class="front">
-			<img width=<?php echo $width?> src="<?php echo $_GET["back"] ?>">
-		</div>
+<a href="<?php echo $_GET["front"] ?>" target="_blank">
 		<div align="center" class="back">
 			<img width=<?php echo $width?> src="<?php echo $_GET["front"] ?>">
+		</div>
+		<div align="center" class="front">
+			<img width=<?php echo $width?> src="<?php echo $_GET["back"] ?>">
 		</div>
 	</div>
 </div>
