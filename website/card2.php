@@ -80,7 +80,7 @@ $height=$_GET["height"];
 <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
 	<div class="flipper">
 		<div class="front">
-			test front <?php echo $_GET["front"] ?>
+			<img src="<?php echo $_GET["front"] ?>">
 		</div>
 		<div class="back">
 			test back <?php echo $_GET["back"] ?>
