@@ -26,7 +26,7 @@ $height=$_GET["height"];
 <style>
 /* entire container, keeps perspective */
 .flip-container {
-	perspective: 1000px;
+	perspective: 300px;
 }
 	/* flip the pane when hovered */
 	.flip-container:hover .flipper, .flip-container.hover .flipper {
@@ -34,13 +34,13 @@ $height=$_GET["height"];
 	}
 
 .flip-container, .front, .back {
-	width: 220px;
-	height: 300px;
+	width: <?php echo $width;?>;
+	height: <?php echo $width;?>;
 }
 
 /* flip speed goes here */
 .flipper {
-	transition: 0.6s;
+	transition: 3s;
 	transform-style: preserve-3d;
 
 	position: relative;
@@ -79,11 +79,11 @@ $height=$_GET["height"];
 
 <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
 	<div class="flipper">
-		<div class="front">
-			<img src="<?php echo $_GET["front"] ?>">
+		<div align="center" class="front">
+			<img width=<?php echo $width?> src="<?php echo $_GET["back"] ?>">
 		</div>
-		<div class="back">
-			<img src="<?php echo $_GET["front"] ?>">
+		<div align="center" class="back">
+			<img width=<?php echo $width?> src="<?php echo $_GET["front"] ?>">
 		</div>
 	</div>
 </div>
