@@ -83,7 +83,7 @@ $height=$_GET["height"];
 			<img src="<?php echo $_GET["front"] ?>">
 		</div>
 		<div class="back">
-			test back <?php echo $_GET["back"] ?>
+			<img src="<?php echo $_GET["front"] ?>">
 		</div>
 	</div>
 </div>
