@@ -34,8 +34,8 @@ $height=$_GET["height"];
 	}
 
 .flip-container, .front, .back {
-	width: 320px;
-	height: 480px;
+	width: 220px;
+	height: 300px;
 }
 
 /* flip speed goes here */
