@@ -77,9 +77,9 @@ $height=$_GET["height"];
 <body bgcolor="#FFF">
 
 
-<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+<div class="flip-container" id=flip ontouchstart="this.classList.toggle('hover');">
 	<div class="flipper">
-<a href="<?php echo $_GET["front"] ?>" target="_blank">
+            <a href="<?php echo $_GET["front"] ?>" target="_blank">
 		<div align="center" class="back">
 			<img width=<?php echo $width?> src="<?php echo $_GET["front"] ?>">
 		</div>
@@ -89,7 +89,11 @@ $height=$_GET["height"];
 	</div>
 </div>
 
-
+<script>
+var myVar = setInterval(function(){ myTimer() }, <?php echo(rand(3000,8000)); ?>);
+function myTimer() {
+  document.getElementById("flip").classList.toggle("hover")
+}
 </script>
 </body>
 </html>
