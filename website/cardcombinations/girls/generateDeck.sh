@@ -19,8 +19,9 @@ usage ./generateDeck.sh DE
 
 
 mkdir $1
+cd $1
 
-for f in $(cat liste.txt)
+for f in $(cat ../liste.txt)
  do
   echo $f
   cp ../../../jpg/$1/$f .
