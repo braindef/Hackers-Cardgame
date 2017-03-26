@@ -41,7 +41,7 @@ else {
 
 
    $files = glob("../".$_GET["dir"]."/*.*");
-
+   shuffle($files);
   for ($i=0; $i<count($files); $i++)
 
 {
