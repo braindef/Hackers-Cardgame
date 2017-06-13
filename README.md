@@ -1,11 +1,5 @@
-# Hackers Card Game v 0.2.0
-###### Social Engineering-Cards now also in this Repository, Tarot is just an API to the GlobalAssessinationGrid. The problem with normal Tarot or other Card Games is, that it (intentionally) lacks Technology, Method and Algorithm Cards only Archetype cards, also eg. the Disney StarWARs Cards, to keep the Technology Cards secret
-
-work in progress...
-
-* those kids that are gifted in COMINT the own with HUMINT
-* those kids that are gifted in HUMINT the own with COMINT
-=>I merge both projects
+# Conspiracy Theory Cardgame
+###### Normal Tarot or other Card Games lacks Technology, Method and Algorithm Cards and has only Archetype cards, also eg. the Disney StarWARs Cards.
 
  - [ movie- | game- | jungian-] - archetypes (normal tarot)
  - [ movie- | classical- ] - psychiatrists
@@ -16,13 +10,9 @@ work in progress...
  - technologies
  - symbolism
 
-##### Pivot Elements:
  - ~1930: Donald Ewen Cameron && Eugen Bleuler @ Burghölzli Schweiz (UNI Zurich)
  - ~1950: CIA MKULTRA Projects 
  - ~1970: Explosion of the Numbers of Mental Deseases (DSM)
-
-if you have **100 Cards** and use **only 3 at a time**, you have alread 161700 recombinations of cards: 
-https://www.wolframalpha.com/input/?i=binomial(100,3)
 
 ### QuickStart / HOWTO create a complete card deck:
 
@@ -58,18 +48,9 @@ Short Video to show how to create a card, about 5 Minutes:
  <iframe text-align=center width=1400 height=730 src="http://marclandolt.ch/Shrink-Disorder-Tarot-0.2.0/website/display.php?dir=website/cardcombinations/virtual-voices/DE"></iframe> 
 
 
-(how to get the complete repository you can see in the Video "QuickStart")
-* "git clone https://github.com/braindef/Shrink-Disorder-Tarot-0.2.0/"
-* run the required script, normally you will just need the printAll.sh in the assemblies directory 
-
 ##### Game Idea:
-**You've been owned** OR **You’ve been set free**
+**Two or more Player, you can craft a archetype card with a technology card get additional points and the card combination with more points win, the other ends up in the graveyard
 
-##### Alternative Use-Case:
-https://twitter.com/FailDef/status/809218950420713472
-
-##### Examples:
-Spinal Cord Implant that was enhanced with all nerves **beats** the Stimoceiver or the WO2005055579A1 Patent, since the Spinal Cord Implant would have more influence to the body than the oder Technologies.
 
 <img src="http://marclandolt.ch//Shrink-Disorder-Tarot-0.2.0/jpg/EN/t6.jpg" width=200> <img src="http://marclandolt.ch//Shrink-Disorder-Tarot-0.2.0/jpg/EN/t1.jpg" width=200> <img src="http://marclandolt.ch//Shrink-Disorder-Tarot-0.2.0/jpg/EN/t3.jpg" width=200>
 

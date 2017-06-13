@@ -14,7 +14,7 @@
    height="396.85333"
    id="svg3050"
    version="1.1"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="t3.svg"
    style="enable-background:new">
   <defs
@@ -44,14 +44,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6202459"
-     inkscape:cx="-74.184667"
-     inkscape:cy="185.1992"
+     inkscape:zoom="3.2404918"
+     inkscape:cx="154.07175"
+     inkscape:cy="295.61209"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer7"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -206,6 +206,42 @@
        width="245.29312"
        id="rect7275"
        style="fill:#f80c34;fill-opacity:1;stroke:#000000;stroke-width:4.26666689;stroke-miterlimit:4;stroke-dasharray:none"
+       ry="12.966287" />
+  </g>
+  <g
+     inkscape:label="headerPoints copy"
+     id="g5128"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <rect
+       inkscape:export-ydpi="375.67999"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t15.png"
+       rx="6.6905184"
+       y="28.949005"
+       x="216.89903"
+       height="30.825022"
+       width="54.983292"
+       id="rect5126"
+       style="fill:#ff5a00;fill-opacity:1;stroke:#000000;stroke-width:2.02059627;stroke-miterlimit:4;stroke-dasharray:none"
+       ry="7.338079" />
+  </g>
+  <g
+     inkscape:label="headerFrame copy"
+     id="g5124"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <rect
+       inkscape:export-ydpi="375.67999"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t15.png"
+       rx="12.966287"
+       y="28.851433"
+       x="26.686775"
+       height="31.020168"
+       width="245.29312"
+       id="rect5122"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.26666689;stroke-miterlimit:4;stroke-dasharray:none"
        ry="12.966287" />
   </g>
   <g
@@ -477,16 +513,16 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       x="160.35385"
-       y="53.106987"
+       style="font-style:normal;font-weight:normal;font-size:7.83379126px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7833792"
+       x="134.13811"
+       y="50.97382"
        id="text7655"><tspan
          sodipodi:role="line"
          id="tspan7657"
-         x="160.35385"
-         y="53.106987"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;fill:#ffffff;stroke-width:1.06666672"
-         dy="-4.2666669">NeroNexus Implantate</tspan></text>
+         x="134.13811"
+         y="50.97382"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.75068665px;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;fill:#ffffff;stroke-width:0.7833792"
+         dy="-3.1335168">NeroNexus Implantate</tspan></text>
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="flowRoot7659"
@@ -515,7 +551,7 @@
            width="218.51003"
            id="rect7671" /></flowRegion><flowPara
          id="flowPara17333"
-         style="stroke-width:1.06666672">ursprünglich von Delgado, mittlerweile hundertfach weiterentwickelt worden und man versteckt sich hinter Jur.Personen (Firmen) direkt im Gehirn plaziert werden, wie OpenBCI mit nachgelagerter Software für Pattern-Recognition bestimmte Muster der Hirnströme erkennt, die dann z.B. Ereignisse am Computer auslösen können. Wie gut auch die Verschlüsselung ist, alle anfällig auf Seitenkanäle f<flowSpan
+         style="stroke-width:1.06666672">ursprünglich erfunden von Delgado, mittlerweile vermutlich weiterentwickelt worden im Gehirn plazierte Implantate, wie OpenBCI mit nachgelagerter Software für Pattern-Recognition bestimmte Muster der Hirnströme erkennt, die dann z.B. Ereignisse am Computer auslösen können oder. Wie gut auch die Verschlüsselung ist, alle anfällig auf Seitenkanäle f<flowSpan
    style="font-size:5.54666662px;baseline-shift:sub;stroke-width:1.06666672"
    id="flowSpan17339">c</flowSpan> = λ/2</flowPara></flowRoot>    <text
        xml:space="preserve"
@@ -894,6 +930,17 @@
          x="43.195808"
          id="tspan4746-7"
          sodipodi:role="line">⚙</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none"
+       x="218.54404"
+       y="50.606625"
+       id="text5132"><tspan
+         sodipodi:role="line"
+         id="tspan5130"
+         x="218.54404"
+         y="50.606625"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffff00">+5/-6</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
