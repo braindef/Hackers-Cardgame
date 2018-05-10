@@ -1,6 +1,8 @@
 # Conspiracy Theory Cardgame
 ###### Normal Tarot or other Card Games lacks Technology, Method and Algorithm Cards and has only Archetype cards, also eg. the Disney StarWARs Cards.
 
+## maybe i should now call these cards "Psychosis Cards", things that can busy and bug you if you are in a acute psychosis
+
  - [ movie- | game- | jungian-] - archetypes (normal tarot)
  - [ movie- | classical- ] - psychiatrists
  - brain area
