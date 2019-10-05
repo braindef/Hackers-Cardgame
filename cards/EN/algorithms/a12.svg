@@ -318,7 +318,7 @@
      inkscape:cx="61.424235"
      inkscape:cy="249.25986"
      inkscape:document-units="px"
-     inkscape:current-layer="l12"
+     inkscape:current-layer="l11"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -571,7 +571,7 @@
     <text
        style="font-size:13.65333366px;stroke-width:1.13777781"
        x="36.40889"
-       y="346.59555"
+       y="350.59555"
        id="text15523"
        xml:space="default"
        inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
@@ -581,7 +581,7 @@
          sodipodi:role="line"
          id="tspan15525"
          x="36.40889"
-         y="346.59555"
+         y="350.59555"
          style="font-weight:bold;font-size:9.10222244px;-inkscape-font-specification:'Sans Bold';stroke-width:1.13777781">Use Cases</tspan>
     </text>
     <text

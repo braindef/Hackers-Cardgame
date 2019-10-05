@@ -14,7 +14,7 @@
    height="396.85333"
    id="svg3050"
    version="1.1"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="a6.svg"
    style="enable-background:new">
   <defs
@@ -44,13 +44,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9157739"
-     inkscape:cx="201.19387"
-     inkscape:cy="121.72115"
+     inkscape:cx="138.81699"
+     inkscape:cy="89.214225"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -223,13 +223,13 @@
     <text
        xml:space="default"
        id="text7285"
-       y="336.53333"
-       x="36.266666"
+       y="338.53333"
+       x="34.266666"
        style="font-size:12.80000019px;stroke-width:1.06666672">
       <tspan
          style="font-weight:bold;font-size:10.66666698px;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
-         y="336.53333"
-         x="36.266666"
+         y="338.53333"
+         x="34.266666"
          id="tspan7287"
          sodipodi:role="line">Use Cases</tspan>
     </text>
@@ -519,7 +519,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.53333378px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="flowRoot7659"
        xml:space="preserve"
-       transform="translate(0,4)"><flowRegion
+       transform="translate(-2,6)"><flowRegion
          id="flowRegion7661"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.06666672"><rect
            y="336"
@@ -532,8 +532,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.10666656px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;text-anchor:start;stroke-width:1.06666672">Simplification/standardization through &quot;pre- printed (software) templates&quot;</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.53333378px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="flowRoot7667"
-       xml:space="preserve"
-       transform="translate(0,2)"><flowRegion
+       xml:space="preserve"><flowRegion
          id="flowRegion7669"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.06666672"><rect
            ry="0"
@@ -554,7 +553,7 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000"
    id="flowSpan496">o</flowSpan><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-   id="flowSpan512">riented&quot; Programming</flowSpan> Language. Gutenberg and the letters of his printing presses was one of the first example in of Templates in this context. A class is a single template for part of a complete software, e.g. &quot;Name, address, phone number&quot; would be a template for a person in an address database.</flowPara></flowRoot>    <text
+   id="flowSpan512">riented&quot; Programming</flowSpan> Language. Gutenberg and the letters of his printing presses was one of the first example in of Templates in this context. A class is a single template for part of a complete software, e.g. &quot;Name, address, phone number&quot; would be a template for a person in an address database. There are Designpatterns also for Psychology and Sociology</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;font-stretch:normal;font-variant:normal;"
        x="261.33334"
