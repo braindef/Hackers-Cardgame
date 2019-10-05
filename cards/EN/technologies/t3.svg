@@ -14,7 +14,7 @@
    height="396.85333"
    id="svg3050"
    version="1.1"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="t3.svg"
    style="enable-background:new">
   <defs
@@ -43,14 +43,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2876294"
-     inkscape:cx="162.19066"
-     inkscape:cy="204.21894"
+     inkscape:zoom="2.1339578"
+     inkscape:cx="-14.599524"
+     inkscape:cy="182.56533"
      inkscape:document-units="px"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="g7653"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -477,7 +477,8 @@
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="flowRoot7659"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       transform="translate(0,2)"><flowRegion
          id="flowRegion7661"
          style="stroke-width:1.06666672"><rect
            y="329.60001"
@@ -503,7 +504,7 @@
          id="flowPara17333"
          style="stroke-width:1.06666672">Originally developed by Delgado, now been developed &quot;in secrecy&quot; since 60 Years, (by  companies that are not publicly know) placed directly in the brain, like OpenBCI with software for pattern recognition recognizes common patterns of the EEG, which can then be analysed. No matter how good the encryption is, all vulnerable to side channel attacks [f<flowSpan
    style="font-size:5.54674482px;baseline-shift:sub;stroke-width:1.06666672"
-   id="flowSpan7753">c</flowSpan> = λ / 2]</flowPara></flowRoot>    <text
+   id="flowSpan7753">c</flowSpan> = λ / 2] </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="261.33334"
@@ -525,6 +526,27 @@
          y="218.66667"
          x="90.666664"
          sodipodi:role="line">José Manuel Rodriguez Delgado</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;"
+       x="35.495216"
+       y="157.14178"
+       id="text485"><tspan
+         sodipodi:role="line"
+         x="35.495216"
+         y="157.14178"
+         style="font-size:13.33333302px;fill:#ff0000;"
+         id="tspan487">http://neuronexus.com/</tspan><tspan
+         sodipodi:role="line"
+         x="35.495216"
+         y="173.80846"
+         style="font-size:13.33333302px;fill:#ff0000;"
+         id="tspan491">wp-content/uploads/2018/11/</tspan><tspan
+         sodipodi:role="line"
+         x="35.495216"
+         y="190.47511"
+         style="font-size:13.33333302px;fill:#ff0000;"
+         id="tspan493">2019_NNxCatalog_20181113.pdf6</tspan></text>
   </g>
   <g
      transform="translate(0,0.00296876)"

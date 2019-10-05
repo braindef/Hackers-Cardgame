@@ -14,7 +14,7 @@
    height="396.85333"
    id="svg3050"
    version="1.1"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="t9.svg"
    style="enable-background:new">
   <defs
@@ -44,14 +44,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.61483672"
-     inkscape:cx="149.33333"
-     inkscape:cy="198.42667"
+     inkscape:zoom="2.4593469"
+     inkscape:cx="95.610911"
+     inkscape:cy="143.75184"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g7653"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -548,7 +548,7 @@
            width="218.51003"
            id="rect7671" /></flowRegion><flowPara
          id="flowPara7744"
-         style="stroke-width:1.06666672">To record and play sounds digitally.  You can change pitch, bass, trebles, snip single words and glue them together like you want. It is also possible to use other mathematical models, e.g. Fourier analysis/transform to analyse the samples or to modify them. Simplest variant, if you play twice the same with delay of 0.2 seconds to achieve an echo effect. See &quot;Curve Discussion&quot;</flowPara></flowRoot>    <text
+         style="stroke-width:1.06666672">To record and play sounds digitally. (cards: co2, t10, t12)  You can change pitch, bass, trebles, snip single words and glue them together like you want. It is also possible to use other mathematical models, e.g. Fourier analysis/transform to analyse the samples or to modify them. Simplest variant, if you play twice the same with delay of 0.2 seconds to achieve an echo effect. See &quot;Curve Discussion&quot; you could even fade between 2 different voices</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="261.33334"
