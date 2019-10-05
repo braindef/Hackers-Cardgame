@@ -14,7 +14,7 @@
    height="396.85333"
    id="svg3050"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="m1.svg"
    style="enable-background:new">
   <defs
@@ -43,14 +43,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.6356164"
-     inkscape:cx="-7.5441069"
-     inkscape:cy="195.32019"
+     inkscape:zoom="1.8636622"
+     inkscape:cx="-40.735053"
+     inkscape:cy="188.64184"
      inkscape:document-units="px"
-     inkscape:current-layer="framework"
+     inkscape:current-layer="g7653"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,46 +91,81 @@
        inkscape:export-filename="/home/marc/Hackers-Cardgame/png/EN/m1.png" />
     <flowRoot
        xml:space="preserve"
-       style="font-size:12.80000019px;stroke-width:1.06666672"
+       style="line-height:0.01%;stroke-width:1.06666672"
        id="flowRoot3041"><flowRegion
          id="flowRegion3043"><use
            x="0"
            y="0"
            xlink:href="#backLeft"
-           id="use3045" /><use
+           id="use3045"
+           width="100%"
+           height="100%" /><use
            x="0"
            y="0"
            xlink:href="#frameLeft"
-           id="use3047" /><use
+           id="use3047"
+           width="100%"
+           height="100%" /><use
            x="0"
            y="0"
            xlink:href="#rect16606"
-           id="use3049" /><use
+           id="use3049"
+           width="100%"
+           height="100%" /><use
            x="0"
            y="0"
            xlink:href="#rect16608"
-           id="use3051" /><use
+           id="use3051"
+           width="100%"
+           height="100%" /><use
            x="0"
            y="0"
            xlink:href="#titleFrameBlue"
-           id="use3053" /><use
+           id="use3053"
+           width="100%"
+           height="100%" /><use
            x="0"
            y="0"
            xlink:href="#rect7266"
-           id="use3055" /><use
+           id="use3055"
+           width="100%"
+           height="100%" /><use
            x="0"
            y="0"
            xlink:href="#rect8612"
-           id="use3057" /><use
+           id="use3057"
+           width="100%"
+           height="100%" /><use
            x="0"
            y="0"
            xlink:href="#rect8612-3"
-           id="use3059" /><use
+           id="use3059"
+           width="100%"
+           height="100%" /><use
            x="0"
            y="0"
            xlink:href="#rect12533"
-           id="use3061" /></flowRegion><flowPara
-         id="flowPara3063">Use Cases</flowPara></flowRoot>  </g>
+           id="use3061"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara3063"
+         style="font-size:12.80000019px;line-height:1.25">Use Cases</flowPara></flowRoot>    <text
+       xml:space="default"
+       id="text7277-3"
+       y="325.54196"
+       x="34.622887"
+       style="line-height:0%;display:inline;stroke-width:1.06666672;enable-background:new"
+       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/EN/m1.png"
+       inkscape:export-xdpi="336.75912"
+       inkscape:export-ydpi="336.75912">
+      <tspan
+         style="font-weight:bold;font-size:10.66666698px;line-height:1.25;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
+         id="tspan7279-6"
+         sodipodi:role="line"
+         x="34.622887"
+         y="325.54196">Use-Cases</tspan>
+    </text>
+  </g>
   <g
      style="display:none"
      transform="translate(0,0.00296876)"
@@ -262,12 +297,12 @@
        id="text7277"
        y="218.66667"
        x="36.266666"
-       style="font-size:12.80000019px;stroke-width:1.06666672"
+       style="line-height:0%;stroke-width:1.06666672"
        inkscape:export-filename="/home/marc/Hackers-Cardgame/png/EN/m1.png"
        inkscape:export-xdpi="336.75912"
        inkscape:export-ydpi="336.75912">
       <tspan
-         style="font-weight:bold;font-size:10.66666698px;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
+         style="font-weight:bold;font-size:10.66666698px;line-height:1.25;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
          id="tspan7279"
          sodipodi:role="line"
          x="36.266666"
@@ -278,12 +313,12 @@
        id="text7281"
        xml:space="default"
        y="218.66667"
-       style="font-size:12.80000019px;stroke-width:1.06666672"
+       style="line-height:0%;stroke-width:1.06666672"
        inkscape:export-filename="/home/marc/Hackers-Cardgame/png/EN/m1.png"
        inkscape:export-xdpi="336.75912"
        inkscape:export-ydpi="336.75912">
       <tspan
-         style="font-weight:bold;font-size:10.66666698px;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
+         style="font-weight:bold;font-size:10.66666698px;line-height:1.25;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
          x="204.8"
          sodipodi:role="line"
          id="tspan7283"
@@ -298,7 +333,7 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="160.35385"
        y="53.106987"
        id="text7655"
@@ -309,50 +344,50 @@
          id="tspan7657"
          x="160.35385"
          y="53.106987"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.86666679px;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter Bold';fill:#ffffff;stroke-width:1.06666672"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.86666679px;line-height:1.25;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter Bold';fill:#ffffff;stroke-width:1.06666672"><tspan
            style="font-size:12.80000019px;stroke-width:1.06666672"
            id="tspan7719"
            dy="-4.2666669">Ink blot test / fixation </tspan><tspan
            style="font-size:9.60000038px;stroke-width:1.06666672"
            id="tspan7717">(psychology)</tspan></tspan></text>
     <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="flowRoot7659"
        xml:space="preserve"
        inkscape:export-filename="/home/marc/Hackers-Cardgame/png/EN/m1.png"
        inkscape:export-xdpi="336.75912"
        inkscape:export-ydpi="336.75912"><flowRegion
          id="flowRegion7661"
-         style="stroke-width:1.06666672"><rect
+         style="font-family:sans-serif;stroke-width:1.06666672"><rect
            y="329.60001"
            x="40.533333"
            height="31.982031"
            width="218.33224"
            id="rect7663"
-           style="stroke-width:1.13777781" /></flowRegion><flowPara
+           style="font-family:sans-serif;stroke-width:1.13777781" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:8.53333378px;text-align:justify;text-anchor:start;stroke-width:1.06666672">As a &quot;Lie detector&quot; but mostly to distract from the survey and the attempt to read out private thoughts and emotions ...</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         style="font-size:8.53333378px;line-height:1.25;font-family:sans-serif;text-align:justify;text-anchor:start;stroke-width:1.06666672">As a &quot;Lie detector&quot; but mostly to distract from the survey and the attempt to read out private thoughts and emotions ...</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="flowRoot7667"
        xml:space="preserve"
        inkscape:export-filename="/home/marc/Hackers-Cardgame/png/EN/m1.png"
        inkscape:export-xdpi="336.75912"
        inkscape:export-ydpi="336.75912"><flowRegion
          id="flowRegion7669"
-         style="stroke-width:1.06666672"><rect
+         style="font-family:sans-serif;stroke-width:1.06666672"><rect
            ry="0"
-           style="text-align:justify;text-anchor:start;stroke-width:1.13777781"
+           style="font-family:sans-serif;text-align:justify;text-anchor:start;stroke-width:1.13777781"
            y="221.86667"
            x="40.533333"
            height="139.3183"
            width="218.51003"
            id="rect7671" /></flowRegion><flowPara
          id="flowPara7673"
-         style="stroke-width:1.06666672">Sold as a &quot;phantasy test with formless blobs for children, normal adults and for mentally ill&quot;, <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
-   id="flowSpan7721">in fact it distracts the questioned</flowSpan> (fixation 1), with a simple RFID or LC circuit stuck on the backside of the paper it's also possible to activate small Active Denial Systems, Hum Noises or treble Sounds arround 15'000Hz below the conscious perception threshold (fixation 2...)</flowPara></flowRoot>    <text
+         style="font-size:8.53333378px;line-height:1.25;font-family:sans-serif;stroke-width:1.06666672">Sold as a &quot;phantasy test with formless blobs for children, normal adults and for mentally ill&quot;, <flowSpan
+   style="font-weight:bold;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
+   id="flowSpan7721">in fact it distracts the questioned</flowSpan> (fixation 1), with a simple RFID or LC circuit stuck on the backside of the paper it's also possible to activate small Active Denial Systems, Hum Noises or treble Sounds arround 15'000Hz below the conscious perception threshold (fixation 2...) see co2 card</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="261.33334"
        y="218.66667"
        id="text7675"
@@ -362,19 +397,19 @@
          sodipodi:role="line"
          x="261.33334"
          y="218.66667"
-         style="text-align:end;text-anchor:end;fill:#ff0000;stroke-width:1.06666672"
+         style="font-size:8.53333378px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ff0000;stroke-width:1.06666672"
          id="tspan7677">~1900</tspan></text>
     <text
        id="text7679"
        y="218.66667"
        x="90.666664"
-       style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"
        inkscape:export-filename="/home/marc/Hackers-Cardgame/png/EN/m1.png"
        inkscape:export-xdpi="336.75912"
        inkscape:export-ydpi="336.75912"><tspan
          id="tspan7681"
-         style="text-align:start;text-anchor:start;fill:#ff0000;stroke-width:1.06666672"
+         style="font-size:8.53333378px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#ff0000;stroke-width:1.06666672"
          y="218.66667"
          x="90.666664"
          sodipodi:role="line">Hermann Rorschach</tspan></text>
@@ -403,7 +438,7 @@
          ry="10.133333" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:19.06188011px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
          x="180.95517"
          y="1245.4185"
          id="text4744-6-6-2-87-8"><tspan
@@ -411,7 +446,7 @@
            id="tspan4746-7-1-8-9-7"
            x="180.95517"
            y="1245.4185"
-           style="font-size:18.13333321px;text-align:center;text-anchor:middle;stroke-width:1.06666672">🔨</tspan></text>
+           style="font-size:18.13333321px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:1.06666672">🔨</tspan></text>
     </g>
   </g>
   <g
