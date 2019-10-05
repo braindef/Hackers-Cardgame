@@ -14,7 +14,7 @@
    height="423.31021"
    id="svg3050"
    version="1.1"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="e2.svg"
    style="enable-background:new">
   <defs
@@ -162,13 +162,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.6195083"
-     inkscape:cx="160.87523"
-     inkscape:cy="62.341588"
+     inkscape:cx="92.541795"
+     inkscape:cy="152.43483"
      inkscape:document-units="px"
      inkscape:current-layer="l12"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -639,7 +639,7 @@
            style="text-align:justify;text-anchor:start;stroke-width:1.13777781"
            ry="0" /></flowRegion><flowPara
          id="flowPara7589"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4666667px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672">The cavity magnetron is a high-powered vacuum tube that generates microwaves using the interaction of a stream of electrons with a magnetic field while moving past a series of open metal cavities (cavity resonators). Electrons pass by the openings to these cavities and cause radio waves to oscillate within, similar to the way a guitar resonates sound from its sound box via the oscillation of its strings.</flowPara></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4666667px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672">The cavity magnetron is a high-powered vacuum tube that generates microwaves using the interaction of a stream of electrons with a magnetic field while moving past a series of open metal cavities (cavity resonators). Electrons pass by the openings to these cavities and cause radio waves to oscillate within, similar to the way a guitar resonates sound from its sound box via the oscillation of its strings. see also t15 card</flowPara></flowRoot>    <text
        id="yearValue"
        y="233.24445"
        x="278.75555"
