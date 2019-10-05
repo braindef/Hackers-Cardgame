@@ -14,7 +14,7 @@
    height="396.85333"
    id="svg3050"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="at1.svg"
    style="enable-background:new"
    enable-background="new">
@@ -163,13 +163,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.5920758"
-     inkscape:cx="174.79861"
-     inkscape:cy="63.880088"
+     inkscape:cx="101.86028"
+     inkscape:cy="130.69382"
      inkscape:document-units="px"
      inkscape:current-layer="l12"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -367,22 +367,22 @@
        y="281.60001"
        id="text8156"
        xml:space="default"
-       style="font-size:12.80000019px;stroke-width:1.06666672">
+       style="line-height:0%;stroke-width:1.06666672">
       <tspan
          sodipodi:role="line"
          id="tspan12090"
          x="34.133335"
          y="281.60001"
-         style="font-size:8.53333378px;font-weight:bold;stroke-width:1.06666672;-inkscape-font-specification:Sans Bold">Main Achievements</tspan>
+         style="font-weight:bold;font-size:8.53333378px;line-height:1.25;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672">Main Achievements</tspan>
     </text>
     <text
        xml:space="default"
        id="Parameter"
        y="302.93332"
        x="34.133335"
-       style="font-size:12.80000019px;stroke-width:1.06666672">
+       style="line-height:0%;stroke-width:1.06666672">
       <tspan
-         style="font-size:8.53333378px;font-weight:bold;stroke-width:1.06666672;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:8.53333378px;line-height:1.25;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
          y="302.93332"
          x="34.133335"
          id="tspan7670"
@@ -393,26 +393,26 @@
        y="218.66667"
        id="StaticTextShrink"
        xml:space="default"
-       style="font-size:12.80000019px;stroke-width:1.06666672">
+       style="line-height:0%;stroke-width:1.06666672">
       <tspan
          y="218.66667"
          x="34.133335"
          sodipodi:role="line"
          id="tspan12094"
-         style="font-size:10.66666698px;font-weight:bold;stroke-width:1.06666672;-inkscape-font-specification:Sans Bold">The Big Five</tspan>
+         style="font-weight:bold;font-size:10.66666698px;line-height:1.25;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672">The Big Five</tspan>
     </text>
     <text
        y="218.66667"
        xml:space="default"
        id="ShrinkJahr"
        x="228.66667"
-       style="font-size:12.80000019px;text-align:end;text-anchor:end;stroke-width:1.06666672">
+       style="line-height:0%;text-align:end;text-anchor:end;stroke-width:1.06666672">
       <tspan
          y="218.66667"
          id="tspan12098"
          sodipodi:role="line"
          x="228.66667"
-         style="font-size:10.66666698px;font-weight:bold;text-align:end;text-anchor:end;stroke-width:1.06666672;-inkscape-font-specification:Sans Bold">Year</tspan>
+         style="font-weight:bold;font-size:10.66666698px;line-height:1.25;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;stroke-width:1.06666672">Year</tspan>
     </text>
   </g>
   <g
@@ -421,7 +421,7 @@
      inkscape:label="static-text English"
      style="display:inline">
     <text
-       style="font-size:12.80000019px;stroke-width:1.06666672"
+       style="line-height:0%;stroke-width:1.06666672"
        x="34.133335"
        y="334.93332"
        id="text15523"
@@ -431,29 +431,29 @@
          id="tspan15525"
          x="34.133335"
          y="334.93332"
-         style="font-size:8.53333378px;font-weight:bold;stroke-width:1.06666672;-inkscape-font-specification:Sans Bold">Use Cases</tspan>
+         style="font-weight:bold;font-size:8.53333378px;line-height:1.25;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672">Use Cases</tspan>
     </text>
     <text
-       style="font-size:12.80000019px;stroke-width:1.06666672"
+       style="line-height:0%;stroke-width:1.06666672"
        xml:space="default"
        id="text15527"
        y="218.66667"
        x="34.133335">
       <tspan
-         style="font-size:10.66666698px;font-weight:bold;stroke-width:1.06666672;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:10.66666698px;line-height:1.25;-inkscape-font-specification:'Sans Bold';stroke-width:1.06666672"
          id="tspan15529"
          sodipodi:role="line"
          x="34.133335"
          y="218.66667">Inventor:</tspan>
     </text>
     <text
-       style="font-size:12.80000019px;text-align:end;text-anchor:end;stroke-width:1.06666672"
+       style="line-height:0%;text-align:end;text-anchor:end;stroke-width:1.06666672"
        x="226.66667"
        id="text15531"
        xml:space="default"
        y="218.66667">
       <tspan
-         style="font-size:10.66666698px;font-weight:bold;text-align:end;text-anchor:end;stroke-width:1.06666672;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:10.66666698px;line-height:1.25;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;stroke-width:1.06666672"
          x="226.66667"
          sodipodi:role="line"
          id="tspan15533"
@@ -467,137 +467,145 @@
      id="l14"
      inkscape:groupmode="layer">
     <flowRoot
-       style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        id="BigFive"
        xml:space="preserve"><flowRegion
-         id="flowRegion7427"><rect
+         id="flowRegion7427"
+         style="font-family:sans-serif"><rect
            ry="0"
-           style="text-align:start;text-anchor:start"
+           style="font-family:sans-serif;text-align:start;text-anchor:start"
            y="221.86667"
            x="35.200001"
            height="148.33055"
            width="229.69659"
            id="rect7429" /></flowRegion><flowPara
          id="flowPara7431"
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
-   style="font-size:7.78666687px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Monospace Bold"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start"><flowSpan
+   style="font-weight:bold;font-size:7.78666687px;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:start;text-anchor:start"
    id="flowSpan7656">N</flowSpan>euroticism:       calm</flowPara><flowPara
          id="flowPara7433"
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
-   style="font-size:7.78666687px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Monospace Bold"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start"><flowSpan
+   style="font-weight:bold;font-size:7.78666687px;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:start;text-anchor:start"
    id="flowSpan7658">E</flowSpan>xtraversion:      subliminal</flowPara><flowPara
          id="flowPara7435"
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
-   style="font-size:7.78666687px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Monospace Bold"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start"><flowSpan
+   style="font-weight:bold;font-size:7.78666687px;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:start;text-anchor:start"
    id="flowSpan7660">O</flowSpan>penness:          conservative</flowPara><flowPara
          id="flowPara7437"
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
-   style="font-size:7.78666687px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Monospace Bold"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start"><flowSpan
+   style="font-weight:bold;font-size:7.78666687px;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:start;text-anchor:start"
    id="flowSpan7662">C</flowSpan>onscientiousness: Negligent but stubborn</flowPara><flowPara
          id="flowPara7457"
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
-   style="font-size:7.78666687px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Monospace Bold"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace;text-align:start;text-anchor:start"><flowSpan
+   style="font-weight:bold;font-size:7.78666687px;font-family:monospace;-inkscape-font-specification:'Monospace Bold';text-align:start;text-anchor:start"
    id="flowSpan7664">A</flowSpan>greeableness:     Not at all, too imperative</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="Errungenschaften"
-       style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
-         id="flowRegion7777"><rect
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion7777"
+         style="font-family:sans-serif"><rect
            id="rect7779"
            width="229.69659"
            height="148.33055"
            x="35.200001"
            y="225.06667"
-           style="text-align:justify;text-anchor:start"
+           style="font-family:sans-serif;text-align:justify;text-anchor:start"
            ry="0" /></flowRegion><flowPara
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7831" /><flowPara
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara8130" /><flowPara
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara8132" /><flowPara
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara8134" /><flowPara
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara8136" /><flowPara
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara8138" /><flowPara
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"
+         id="flowPara7831"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8130"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8132"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8134"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8136"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8138"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"
          id="flowPara7837">Oedipus complex, &quot;research&quot; with cocaine</flowPara></flowRoot>    <flowRoot
-       style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        id="KurzProfil"
        xml:space="preserve"><flowRegion
-         id="flowRegion7841"><rect
+         id="flowRegion7841"
+         style="font-family:sans-serif"><rect
            ry="0"
-           style="text-align:justify;text-anchor:start"
+           style="font-family:sans-serif;text-align:justify;text-anchor:start"
            y="304"
            x="35.200001"
            height="63.112286"
            width="229.69659"
            id="rect7843" /></flowRegion><flowPara
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"
          id="flowPara7871">Humanism:                            <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'Monospace Bold'"
    id="flowSpan7873">★☆☆☆☆  (1/5)</flowSpan></flowPara><flowPara
          id="flowPara7875"
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Technical background:                <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace">Technical background:                <flowSpan
+   style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'Monospace Bold'"
    id="flowSpan7877">★☆☆☆☆  (1/5)</flowSpan></flowPara><flowPara
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"
          id="flowPara7743">delusions of grandeur:               <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'Monospace Bold'"
    id="flowSpan7881">★★★★☆  (4/5)</flowSpan></flowPara><flowPara
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"
          id="flowPara7883">Military background:                 <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'Monospace Bold'"
    id="flowSpan7885">★★★★★  (5/5)</flowSpan></flowPara><flowPara
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"
          id="flowPara7887">project own problems to Patients:    <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'Monospace Bold'"
    id="flowSpan7889">★★★★★  (5/5)</flowSpan></flowPara><flowPara
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7891">self-esteem:                         <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"
+         id="flowPara7891">self-esteem:                            <flowSpan
+   style="font-weight:bold;font-family:monospace;-inkscape-font-specification:'Monospace Bold'"
    id="flowSpan7893">★★☆☆☆  (2/5)</flowSpan></flowPara><flowPara
          id="flowPara7895"
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"> </flowPara><flowPara
          id="flowPara7897"
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace" /><flowPara
          id="flowPara7899"
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace" /><flowPara
          id="flowPara7901"
-         style="font-size:7.78666687px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.78666687px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="261.33334"
        y="218.66667"
-       id="text7459"
-       sodipodi:linespacing="125%"><tspan
+       id="text7459"><tspan
          sodipodi:role="line"
          x="261.33334"
          y="218.66667"
-         style="text-align:end;text-anchor:end;fill:#ff0000"
+         style="font-size:8.53333378px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ff0000"
          id="tspan7461">1856</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7622"
-       style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
-         id="flowRegion7624"><rect
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion7624"
+         style="font-family:sans-serif"><rect
            id="rect7626"
            width="6.0867076"
            height="9.1300611"
            x="33.476891"
-           y="222.16187" /></flowRegion><flowPara
-         id="flowPara7628" /></flowRoot>    <flowRoot
+           y="222.16187"
+           style="font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara7628"
+         style="font-size:8.53333378px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7630"
-       style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
-         id="flowRegion7632"><rect
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion7632"
+         style="font-family:sans-serif"><rect
            id="rect7634"
            width="152.77635"
            height="31.650879"
            x="41.389606"
-           y="228.24857" /></flowRegion><flowPara
-         id="flowPara7636" /></flowRoot>  </g>
+           y="228.24857"
+           style="font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara7636"
+         style="font-size:8.53333378px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="l12"
@@ -607,52 +615,55 @@
     <flowRoot
        xml:space="preserve"
        id="useCasesValue"
-       style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-6,8)"><flowRegion
-         id="flowRegion25141"><rect
+         id="flowRegion25141"
+         style="font-family:sans-serif"><rect
            id="rect25143"
            width="230.02464"
            height="33.095589"
            x="40.533333"
-           y="329.60001" /></flowRegion><flowPara
-         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7573">Soldat Satans der vermutlich explizit dazu programmiert wurde mit &quot;Enhanced Interrogation Techniques&quot;</flowPara></flowRoot>    <flowRoot
+           y="329.60001"
+           style="font-family:sans-serif" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace;text-align:justify;text-anchor:start"
+         id="flowPara7573">Soldat Satans der vermutlich explizit dazu programmiert wurde mit &quot;Enhanced Interrogation Techniques&quot; see co2 Card</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="abstract"
-       style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       transform="translate(-6,0)"><flowRegion
-         id="flowRegion25114"><rect
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-6)"><flowRegion
+         id="flowRegion25114"
+         style="font-family:sans-serif"><rect
            id="rect25116"
            width="229.64566"
            height="106.93415"
            x="40.533333"
            y="221.86667"
-           style="text-align:justify;text-anchor:start"
+           style="font-family:sans-serif;text-align:justify;text-anchor:start"
            ry="0" /></flowRegion><flowPara
          id="flowPara7589"
-         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Anders Behring Breivik war ein norwegischer islamfeindlicher Terrorist / Amokläufer der 77 junge Menschen in einem Amoklauf ermordet hat. Da wäre zu erwarten dass wärend des Schreibens seines Manifests jemand ihn über die Informatik explizit in diese Richtgung abgerichtet hat. Als Heim-/Psychiatrie-Kind wäre zu er warten, dass derjenige der ihn dazu abgerichtet hat eine technisch-medizinische Ausbildung hat und damit davon gekommen ist. Einige Verdingkinder-/Schwabenkinder werden zu Terroristen gemacht um von der Unterwanderungdurch anderen abzulenken?</flowPara></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace">Islamfeindlicher Terrorist / Amokläufer der 77 junge Menschen in einem Amoklauf ermordet hat. Da wäre zu erwarten dass wärend des Schreibens seines Manifests jemand ihn über die Informatik explizit in diese Richtgung abgerichtet hat. Als Heim-/Psychiatrie-Kind wäre zu er warten, dass derjenige der ihn dazu abgerichtet hat eine technisch-medizinische Ausbildung hat und damit davon gekommen ist. Einige Verdingkinder-/Schwabenkinder werden zu Terroristen gemacht um von der Unterwanderungdurch anderen abzulenken? Oft zu sehen:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;line-height:1.25;font-family:monospace;-inkscape-font-specification:Monospace"
+         id="flowPara439">t1. Psychiatrie t2. Mord t3. Psychiatrie (Verwahrung)</flowPara></flowRoot>    <text
        id="yearValue"
        y="218.66667"
        x="261.33334"
-       style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
          id="tspan25184"
-         style="font-size:9px;font-weight:bold;text-align:end;text-anchor:end;fill:#ff0000;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:9px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#ff0000"
          y="218.66667"
          x="261.33334"
          sodipodi:role="line">~xxxx</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="90.666664"
        y="218.66667"
-       id="inventerValue"
-       sodipodi:linespacing="125%"><tspan
+       id="inventerValue"><tspan
          sodipodi:role="line"
          x="90.666664"
          y="218.66667"
-         style="text-align:start;text-anchor:start;fill:#ff0000"
+         style="font-size:8.53333378px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#ff0000"
          id="tspan24717-3">xxxx</tspan></text>
   </g>
   <g
@@ -662,29 +673,28 @@
      id="l13"
      inkscape:groupmode="layer">
     <text
-       sodipodi:linespacing="125%"
        xml:space="preserve"
-       style="font-size:8.53333378px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="158.35385"
        y="51.106987"
        id="text8922"><tspan
          sodipodi:role="line"
          x="158.35385"
          y="51.106987"
-         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;fill:#ffffff"
          id="tspan15866">Amokläufer</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="283.46667"
        y="85.040001"
        id="text3791"
-       sodipodi:linespacing="125%"
        transform="translate(0,-0.00296876)"><tspan
          sodipodi:role="line"
          id="tspan3793"
          x="283.46667"
-         y="85.040001" /></text>
+         y="85.040001"
+         style="font-size:24px;line-height:1.25;font-family:sans-serif"> </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -711,10 +721,9 @@
        id="text4744-6"
        y="50.691978"
        x="43.195808"
-       style="font-size:19.06188011px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:18.13333321px;text-align:center;text-anchor:middle"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:18.13333321px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
          y="50.691978"
          x="43.195808"
          id="tspan4746-7"
@@ -744,16 +753,15 @@
          ry="12.205368" />
       <text
          xml:space="preserve"
-         style="font-size:23.22340965px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
          x="302.64349"
          y="780.42181"
-         id="text4744-6-6-2-8-8-7"
-         sodipodi:linespacing="125%"><tspan
+         id="text4744-6-6-2-8-8-7"><tspan
            sodipodi:role="line"
            id="tspan4746-7-1-8-6-9-5"
            x="302.64349"
            y="780.42181"
-           style="font-size:22.09214592px;text-align:center;text-anchor:middle">⟿</tspan></text>
+           style="font-size:22.09214592px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle">⟿</tspan></text>
     </g>
   </g>
   <g
@@ -776,16 +784,15 @@
          ry="10.133333" />
       <text
          xml:space="preserve"
-         style="font-size:16.91592026px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
          x="43.191879"
          y="51.295628"
-         id="text4744-6-6-2-8-5"
-         sodipodi:linespacing="125%"><tspan
+         id="text4744-6-6-2-8-5"><tspan
            sodipodi:role="line"
            id="tspan4746-7-1-8-6-3"
            x="43.191879"
            y="51.295628"
-           style="font-size:16.09190941px;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans">📺</tspan></text>
+           style="font-weight:normal;font-size:16.09190941px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle">📺</tspan></text>
     </g>
   </g>
   <g
@@ -812,16 +819,15 @@
            ry="10.133333" />
         <text
            xml:space="preserve"
-           style="font-size:19.06188011px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="-330.74506"
            y="539.13696"
-           id="text4744-6-3-1-7-7-9"
-           sodipodi:linespacing="125%"><tspan
+           id="text4744-6-3-1-7-7-9"><tspan
              sodipodi:role="line"
              id="tspan4746-7-5-5-5-0-1"
-             x="-330.74506"
+             x="-328.47839"
              y="539.13696"
-             style="font-size:18.13333321px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Symbola;-inkscape-font-specification:Symbola Bold" /></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.13333321px;line-height:1.25;font-family:Symbola;-inkscape-font-specification:'Symbola Bold';text-align:center;text-anchor:middle;fill:#000000"> </tspan></text>
         <circle
            style="opacity:0.87000002;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.67243314;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            id="path15439"
@@ -865,16 +871,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:19.06188011px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="-3.479876"
        y="56.711254"
-       id="text4744-6-3-1-7-7-9-7"
-       sodipodi:linespacing="125%"><tspan
+       id="text4744-6-3-1-7-7-9-7"><tspan
          sodipodi:role="line"
          id="tspan4746-7-5-5-5-0-1-5"
-         x="-3.479876"
+         x="-1.2132094"
          y="56.711254"
-         style="font-size:18.13333321px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Symbola;-inkscape-font-specification:Symbola Bold" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.13333321px;line-height:1.25;font-family:Symbola;-inkscape-font-specification:'Symbola Bold';text-align:center;text-anchor:middle;fill:#000000"> </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1956,16 +1961,15 @@
        inkscape:export-ydpi="375.63586" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
        x="33.979019"
        y="52.278458"
-       id="text10123"
-       sodipodi:linespacing="125%"><tspan
+       id="text10123"><tspan
          sodipodi:role="line"
          id="tspan10125"
          x="33.979019"
          y="52.278458"
-         style="font-size:22px;font-weight:bold;-inkscape-font-specification:Sans Bold">✚</tspan></text>
+         style="font-weight:bold;font-size:22px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold'">✚</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1988,16 +1992,15 @@
          ry="10.133333" />
       <text
          xml:space="preserve"
-         style="font-size:19.06188011px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
          x="172.05814"
          y="1497.5708"
-         id="text4744-6-3-1-0"
-         sodipodi:linespacing="125%"><tspan
+         id="text4744-6-3-1-0"><tspan
            sodipodi:role="line"
            id="tspan4746-7-5-5-1"
            x="172.05814"
            y="1497.5708"
-           style="font-size:18.13333321px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Symbola;-inkscape-font-specification:Symbola Bold">Ψ</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.13333321px;line-height:1.25;font-family:Symbola;-inkscape-font-specification:'Symbola Bold';text-align:center;text-anchor:middle">Ψ</tspan></text>
     </g>
   </g>
   <g
@@ -2027,24 +2030,22 @@
            id="text5245-0-3-3-1"
            y="1120.3806"
            x="507.923"
-           style="font-size:16.02946663px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
            xml:space="preserve"
            inkscape:transform-center-x="4.3345129"
-           inkscape:transform-center-y="-4.098021"
-           sodipodi:linespacing="125%"><tspan
+           inkscape:transform-center-y="-4.098021"><tspan
              y="1120.3806"
              x="507.923"
              id="tspan5247-4-5-6-2"
              sodipodi:role="line"
-             style="fill:#ffffff">📺</tspan></text>
+             style="font-size:16.02946663px;line-height:1.25;font-family:sans-serif;fill:#ffffff">📺</tspan></text>
         <text
            id="text4744-6-3-1-3-7-6"
            y="1118.8578"
            x="514.83307"
-           style="font-size:9.12078953px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00112b;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-           xml:space="preserve"
-           sodipodi:linespacing="125%"><tspan
-             style="font-size:8.67649555px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#00112b;font-family:Symbola;-inkscape-font-specification:Symbola Bold"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#00112b;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.67649555px;line-height:1.25;font-family:Symbola;-inkscape-font-specification:'Symbola Bold';text-align:center;text-anchor:middle;fill:#00112b"
              y="1118.8578"
              x="514.83307"
              id="tspan4746-7-5-5-8-5-0"
@@ -2073,16 +2074,15 @@
          ry="10.133333" />
       <text
          xml:space="preserve"
-         style="font-size:19.06188011px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
          x="180.95517"
          y="1245.4185"
-         id="text4744-6-6-2-87-8"
-         sodipodi:linespacing="125%"><tspan
+         id="text4744-6-6-2-87-8"><tspan
            sodipodi:role="line"
            id="tspan4746-7-1-8-9-7"
            x="180.95517"
            y="1245.4185"
-           style="font-size:18.13333321px;text-align:center;text-anchor:middle">🔨</tspan></text>
+           style="font-size:18.13333321px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle">🔨</tspan></text>
     </g>
   </g>
   <g
@@ -2110,10 +2110,9 @@
          id="text4744-6-6-2-87-1"
          y="767.9162"
          x="325.88562"
-         style="font-size:19.06188011px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
-           style="font-size:18.13333321px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;font-size:18.13333321px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
            y="767.9162"
            x="325.88562"
            id="tspan4746-7-1-8-9-2"
@@ -2157,7 +2156,7 @@
            inkscape:export-ydpi="375.63586" />
         <text
            xml:space="preserve"
-           style="font-size:28.0509758px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:17.53186035px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
            x="-63.570599"
            y="73.541656"
            id="text37440"><tspan
@@ -2165,7 +2164,7 @@
              id="tspan37438"
              x="-63.570599"
              y="73.541656"
-             style="font-size:26.66666603px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:URW Palladio L;-inkscape-font-specification:URW Palladio L Medium">☠</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.66666603px;line-height:17.53186035;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:center;text-anchor:middle;fill:#ffffff">☠</tspan></text>
       </g>
       <g
          transform="translate(0.09207416,0.208236)"
