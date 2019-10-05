@@ -13,7 +13,7 @@
    height="396.85333"
    id="svg3050"
    version="1.1"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="a10.svg"
    style="enable-background:new">
   <defs
@@ -135,13 +135,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6202459"
-     inkscape:cx="44.167627"
-     inkscape:cy="208.18955"
+     inkscape:cx="-29.58661"
+     inkscape:cy="205.72079"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g7653"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -419,7 +419,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
@@ -461,7 +461,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -704,13 +704,11 @@
            width="218.51003"
            id="rect7671" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.53333378px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672"
-         id="flowPara14496">Die HEXerei dazu: sagt dem Computer dass jetzt eine Schablone definiert wird wo die einzelnen Datenwerte im Speicher abgelegt werden. Am einfachsten könnte man die <flowSpan
+         id="flowPara14514">Witchcraft: tell the computer to define an object, which is a single element (a12) where the possible values are defined and where to store it in Memory (see also <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'"
-   id="flowSpan7307">Klasse</flowSpan> mit einem  <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'"
-   id="flowSpan14504">struct </flowSpan></flowPara><flowPara
+   id="flowSpan14504">struct /</flowSpan> C++ ) excuse the</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.53333378px;font-family:Monospace;-inkscape-font-specification:Monospace;stroke-width:1.06666672"
-         id="flowPara14514">aus C++ erklären</flowPara></flowRoot>    <text
+         id="flowPara614">german, no time to change</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.53333378px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="261.33334"
