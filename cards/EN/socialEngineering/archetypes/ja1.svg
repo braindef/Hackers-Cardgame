@@ -14,7 +14,7 @@
    height="396.85333"
    id="svg3050"
    version="1.1"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="ja1.svg"
    style="enable-background:new">
   <defs
@@ -43,14 +43,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5580358"
-     inkscape:cx="144.24162"
-     inkscape:cy="101.4982"
+     inkscape:zoom="2.1065717"
+     inkscape:cx="149.33333"
+     inkscape:cy="198.42667"
      inkscape:document-units="px"
      inkscape:current-layer="g7683"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -713,12 +713,12 @@
      transform="translate(0,0.00296876)">
     <text
        id="text7685"
-       y="50.400002"
+       y="48.400002"
        x="160.35385"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.53333378px;line-height:125%;font-family:'MineCrafter 3';-inkscape-font-specification:'MineCrafter 3 Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';fill:#ffffff;stroke-width:1.06666672"
-         y="50.400002"
+         y="48.400002"
          x="160.35385"
          id="tspan7687"
          sodipodi:role="line">Worrier-Archetype 1</tspan></text>

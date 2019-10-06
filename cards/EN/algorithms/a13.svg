@@ -161,11 +161,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5399812"
-     inkscape:cx="85.868142"
-     inkscape:cy="123.47517"
+     inkscape:zoom="2.1065717"
+     inkscape:cx="149.33333"
+     inkscape:cy="198.42667"
      inkscape:document-units="px"
-     inkscape:current-layer="l12"
+     inkscape:current-layer="l13"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -718,7 +718,7 @@
          style="font-size:24px;line-height:1.25;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:bold;font-size:29.34408569px;line-height:18.34005356px;font-family:GNUTypewriter;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.73360211;-inkscape-font-specification:'GNUTypewriter Bold';font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.34408569px;line-height:18.34005356px;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.73360211"
        x="134.06047"
        y="101.21697"
        id="text12"
@@ -729,7 +729,7 @@
          id="tspan10"
          x="134.06047"
          y="101.21697"
-         style="stroke-width:0.73360211;-inkscape-font-specification:'GNUTypewriter Bold';font-family:GNUTypewriter;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">♛</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';stroke-width:0.73360211">♛</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:bold;font-size:29.34408569px;line-height:18.34005356px;font-family:GNUTypewriter;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.73360211;-inkscape-font-specification:'GNUTypewriter Bold';font-stretch:normal;font-variant:normal;"

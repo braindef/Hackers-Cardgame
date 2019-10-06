@@ -161,11 +161,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.46306802"
-     inkscape:cx="125.18755"
-     inkscape:cy="-18.164653"
+     inkscape:zoom="1.974911"
+     inkscape:cx="159.28888"
+     inkscape:cy="211.65511"
      inkscape:document-units="px"
-     inkscape:current-layer="l12"
+     inkscape:current-layer="g4894-3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -727,38 +727,6 @@
                x="-67.943611"
                id="tspan37438-40"
                sodipodi:role="line">☠</tspan></text>
-        </g>
-        <g
-           id="g4882-3"
-           transform="translate(0.09821244,0.2221184)">
-          <g
-             transform="matrix(1.0233912,0,0,1.0233912,-0.93669138,-0.94782084)"
-             id="g4888-9">
-            <circle
-               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.87680894"
-               id="path15439-9-1"
-               cx="45.878761"
-               cy="42.675091"
-               r="6.3474684" />
-            <path
-               style="fill:none;stroke:#000000;stroke-width:0.56115776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m 42.354683,43.315857 c 0.910128,2.744272 2.272311,1.935714 3.661404,2.045649 1.619621,0.09643 2.692006,0.104853 3.432567,-2.091419"
-               id="path16209-7-96"
-               inkscape:connector-curvature="0"
-               sodipodi:nodetypes="ccc" />
-            <circle
-               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.87680894"
-               id="path15439-7-8-9"
-               cx="43.878407"
-               cy="40.656033"
-               r="1.23467" />
-            <circle
-               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.87680894"
-               id="path15439-7-2-53-3"
-               cx="47.988022"
-               cy="40.665398"
-               r="1.23467" />
-          </g>
         </g>
       </g>
       <rect
@@ -2190,7 +2158,7 @@
      inkscape:groupmode="layer"
      id="l27"
      inkscape:label="symbol"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        ry="10.808888"
