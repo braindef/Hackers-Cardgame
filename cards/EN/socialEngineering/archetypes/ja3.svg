@@ -14,7 +14,7 @@
    height="396.85333"
    id="svg3050"
    version="1.1"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="ja3.svg"
    style="enable-background:new">
   <defs
@@ -44,13 +44,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.5580358"
-     inkscape:cx="149.33333"
-     inkscape:cy="92.532387"
+     inkscape:cx="71.343804"
+     inkscape:cy="278.61266"
      inkscape:document-units="px"
-     inkscape:current-layer="g7683"
+     inkscape:current-layer="g3873-3"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -913,7 +913,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="algorithm"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,0.00296876)">
     <g
        style="display:inline;enable-background:new"
@@ -1039,7 +1039,7 @@
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="genericArchetype1"
-     style="display:none">
+     style="display:inline">
     <g
        style="display:inline;enable-background:new"
        id="g15244"
