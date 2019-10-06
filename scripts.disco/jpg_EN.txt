@@ -14,6 +14,7 @@
 ../png/EN/m31.png
 ../png/EN/m15-mod.png
 ../png/EN/t2.png
+../png/EN/ha1.png
 ../png/EN/g5.png
 ../png/EN/ja4.png
 ../png/EN/m10.png
