@@ -1,5 +1,7 @@
-# Conspiracy Theory Cardgame
-###### Normal Tarot or other Card Games lacks Technology, Method and Algorithm Cards and has only Archetype cards, also eg. the Disney StarWARs Cards.
+# Hackers-Cardgame
+###### Normal Tarot or other Card Games lacks Technology, Method and Algorithm Cards and has only Archetype cards, it are less Tarot Cards with power but more cards to teach people what technology can be against them for example by Mental Institutions
+
+WARNING, THERE SEEMS TO BE SOME SORT OF LINUX MALWARE THAT ATTACKS THIS CARDS AND CHANGES RELEVANT INFORMATIONs, CROSS-CHECK THEM WHEN CUTTING THEM OUT
 
 ## maybe i should now call these cards "Psychosis Cards", things that can busy and bug you if you are in a acute psychosis
 
