@@ -16,7 +16,10 @@
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="e4.svg"
-   style="enable-background:new">
+   style="enable-background:new"
+   inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/e4.png"
+   inkscape:export-xdpi="375.67999"
+   inkscape:export-ydpi="375.67999">
   <defs
      id="defs3052">
     <marker
@@ -162,10 +165,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="100.10063"
-     inkscape:cy="256.74508"
+     inkscape:cx="182.26545"
+     inkscape:cy="168.59818"
      inkscape:document-units="px"
-     inkscape:current-layer="l13"
+     inkscape:current-layer="l12"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -2394,14 +2397,14 @@ AAAAAAAAAAAAAAAAAAAAAKDS/j/p3aVBEgt6qQAAAABJRU5ErkJggg==
     <text
        style="font-size:12.80000591px;stroke-width:1.0666672"
        x="43.182755"
-       y="286.26068"
+       y="280.26068"
        id="text15523"
        xml:space="default">
       <tspan
          sodipodi:role="line"
          id="tspan15525"
          x="43.182755"
-         y="286.26068"
+         y="280.26068"
          style="font-weight:bold;font-size:8.53333759px;-inkscape-font-specification:'Sans Bold';stroke-width:1.0666672">Use Cases</tspan>
     </text>
     <text
@@ -2587,17 +2590,17 @@ AAAAAAAAAAAAAAAAAAAAAKDS/j/p3aVBEgt6qQAAAABJRU5ErkJggg==
        xml:space="preserve"
        id="useCasesValue"
        style="font-style:normal;font-weight:normal;font-size:9.10222244px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       transform="matrix(0.93750042,0,0,0.93750042,9.049406,-38.672986)"><flowRegion
+       transform="matrix(0.93750042,0,0,0.93750042,9.049406,-44.672986)"><flowRegion
          id="flowRegion25141"
          style="stroke-width:1.06666672"><rect
            id="rect25143"
-           width="243.85114"
-           height="72.260071"
+           width="243.09691"
+           height="110.34954"
            x="36.835556"
            y="351.57333"
            style="stroke-width:1.13777781" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.4666667px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:justify;text-anchor:start;stroke-width:1.06666672"
-         id="flowPara7573">Antennen berechnen, bzw. allenfalls würde auch ein Gold-Draht z.B. im Körper eine Auswirkung haben auf das Nervensystem / Muskel haben. Legitim wäre aber nur das Selbstexperiment und dies nur in nur in Anwesenheit eines Medizin Professors bzw. eines Doktors in Medizin.</flowPara></flowRoot>    <flowRoot
+         id="flowPara7573">Antennen berechnen, bzw. allenfalls würde auch ein Gold-Draht z.B. im Körper eine Auswirkung haben auf das Nervensystem / Muskel haben. Legitim wäre aber nur das Selbstexperiment und dies nur in nur in Anwesenheit eines Medizin Professors bzw. eines Doktors in Medizin. Menschen die solches Missbrauchen würden ev. eine falsche Spur legen und behaupten es sei wegen Chemikalien / Medikamenten / Drogen</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="abstract"
        style="font-style:normal;font-weight:normal;font-size:9.10222244px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
