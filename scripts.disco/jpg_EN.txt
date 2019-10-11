@@ -11,6 +11,7 @@
 ../png/EN/a11.png
 ../png/EN/m11.png
 ../png/EN/s1.png
+../png/EN/m42.png
 ../png/EN/e4.png
 ../png/EN/m31.png
 ../png/EN/m15-mod.png
@@ -46,6 +47,7 @@
 ../png/EN/m2.png
 ../png/EN/m24.png
 ../png/EN/t10.png
+../png/EN/m44.png
 ../png/EN/ma6.png
 ../png/EN/dt1.png
 ../png/EN/t9.png
@@ -65,6 +67,7 @@
 ../png/EN/m41.png
 ../png/EN/t7.png
 ../png/EN/m6.png
+../png/EN/m43.png
 ../png/EN/m13.png
 ../png/EN/ma1.png
 ../png/EN/m16.png
