@@ -57,6 +57,7 @@
 ../png/EN/t6.png
 ../png/EN/bo1.png
 ../png/EN/m25.png
+../png/EN/m46.png
 ../png/EN/ma9.png
 ../png/EN/t18.png
 ../png/EN/t21.png
