@@ -99,6 +99,7 @@
 ../png/EN/m29.png
 ../png/EN/m32.png
 ../png/EN/a3.png
+../png/EN/t22.png
 ../png/EN/p2.png
 ../png/EN/m4.png
 ../png/EN/m20.png
