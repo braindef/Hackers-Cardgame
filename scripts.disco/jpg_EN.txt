@@ -103,6 +103,7 @@
 ../png/EN/p2.png
 ../png/EN/m4.png
 ../png/EN/m20.png
+../png/EN/m47.png
 ../png/EN/p5.png
 ../png/EN/b1.png
 ../png/EN/t4.png
