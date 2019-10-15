@@ -19,7 +19,7 @@ fi
 echo  "../png/$1/ => ../jpg/$1/"
 mkdir --parents ../jpg/$1
 
-find ../png/$1/ -name '*.png' >./jpg_$1.txt
+find ../png/$1/$2 -name '*.png' >./jpg_$1.txt
 
 echo liste
 cat ./jpg_$1.txt
