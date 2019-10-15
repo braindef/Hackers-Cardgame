@@ -129,6 +129,7 @@
 ../png/EN/m19.png
 ../png/EN/c1.png
 ../png/EN/m12.png
+../png/EN/m48.png
 ../png/EN/m17.png
 ../png/EN/stsct3.png
 ../png/EN/a12.png
