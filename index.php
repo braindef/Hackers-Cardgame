@@ -1,3 +1,8 @@
+<h1>Hackers Cardgame</h1>
+Never Play "Red Team" help out with "Blue Team" and save the World<br><br>
+please respect the license, Peple like Julian, Fefe, Frank... (just ask) are excluded from the 1978 Rule<br><br>
+<a href="https://github.com/braindef/Hackers-Cardgame/blob/master/LICENSE">license</a>
+
    <?php
 
    $files = glob("*.*");
