@@ -1,1 +1,1 @@
-../png/EN/bio1.png
+../png/EN/eye1.png
