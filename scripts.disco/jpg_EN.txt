@@ -1,1 +1,1 @@
-../png/EN/smoke1.png
+../png/EN/bo1.png
