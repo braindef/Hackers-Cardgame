@@ -1,4 +1,1 @@
-../png/EN/dp1.png
-../png/EN/dp2.png
-../png/EN/dp3.png
-../png/EN/dp4.png
+../png/EN/eye1.png
