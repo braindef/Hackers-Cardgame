@@ -1,1 +1,1 @@
-../png/EN/c1.png
+../png/EN/r1.png
