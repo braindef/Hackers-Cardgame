@@ -1,1 +1,1 @@
-../png/EN/cpu1.png
+../png/EN/dp4.png
