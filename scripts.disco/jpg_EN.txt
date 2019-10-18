@@ -1,1 +1,7 @@
-../png/EN/c64.png
+../png/EN/co1.png
+../png/EN/co2.png
+../png/EN/co3.png
+../png/EN/co4.png
+../png/EN/co5.png
+../png/EN/co6.png
+../png/EN/co7.png
