@@ -1,7 +1,12 @@
 <h1>Hackers Cardgame</h1>
 Never Play "Red Team" help out with "Blue Team" and save the World<br><br>
-please respect the license, People like Julian, Fefe, Frank... (just ask) are excluded from the 1978 Rule<br><br>
+please respect the license, People like Julian, Fefe, Frank, Paniq, Silvia... (just ask) are excluded from the 1978 Rule<br><br>
 <a href="https://github.com/braindef/Hackers-Cardgame/blob/master/LICENSE">license</a>
+
+
+Source:<br>
+<a href="https://github.com/braindef/Hackers-Cardgame">https://github.com/braindef/Hackers-Cardgame</a><br>
+<a href="https://github.com/braindef/Hackers-Cardgame2">https://github.com/braindef/Hackers-Cardgame2</a><br>
 
 <!-- and of course nobody would have the stupid idea to place microdots in such a repository https://en.wikipedia.org/wiki/Microdot-->
 
