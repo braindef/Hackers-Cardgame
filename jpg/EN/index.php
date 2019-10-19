@@ -36,3 +36,7 @@ if (in_array($ext, $supported_file)) {
 
 ?>
 
+Source:<br>
+<a href="https://github.com/braindef/Hackers-Cardgame">https://github.com/braindef/Hackers-Cardgame</a><br>
+<a href="https://github.com/braindef/Hackers-Cardgame2">https://github.com/braindef/Hackers-Cardgame2</a><br>
+
