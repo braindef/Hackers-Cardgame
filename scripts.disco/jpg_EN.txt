@@ -1,1 +1,11 @@
-../png/EN/sk1.png
+../png/EN/m2.png
+../png/EN/m20.png
+../png/EN/m21.png
+../png/EN/m22.png
+../png/EN/m23.png
+../png/EN/m24.png
+../png/EN/m25.png
+../png/EN/m26.png
+../png/EN/m27.png
+../png/EN/m28.png
+../png/EN/m29.png
