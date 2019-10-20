@@ -1,1 +1,3 @@
-../png/EN/m53.png
+../png/EN/scg1.png
+../png/EN/scg2.png
+../png/EN/scg3.png
