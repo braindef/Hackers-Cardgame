@@ -1,7 +1,7 @@
 
-<h1>Hacker, Gamer and Science Scapegoats (Sündenböcke)</h1>
+<h1>Anti-Psychotics and "Anti-Psychotics"</h1>
 Maybe see all cards <a href="../../jpg/EN/">all the cards</a>
-but someone seems inteintionally to produce scapegoates for the things systems like NSA / CIA does... they changed the "observer pattern" so we created it again and now its better than before.
+maybe it are all electronic impulses interpreted by your brain, and of course chemicals induce the psyche and the mind, but looprecorder influence the mind too, and communication chanels can be different too.
 <br>
 <br>
 <br>
