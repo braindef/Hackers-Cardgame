@@ -1,1 +1,7 @@
+../png/EN/ja1.png
+../png/EN/ja2.png
+../png/EN/ja3.png
 ../png/EN/ja4.png
+../png/EN/ja5.png
+../png/EN/ja6.png
+../png/EN/ja7.png
