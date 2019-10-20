@@ -1,7 +1,1 @@
-../png/EN/e1.png
-../png/EN/e2.png
-../png/EN/e3.png
-../png/EN/e4.png
-../png/EN/e5.png
 ../png/EN/env1.png
-../png/EN/eye1.png
