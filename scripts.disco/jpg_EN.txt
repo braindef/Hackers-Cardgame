@@ -1,1 +1,3 @@
-../png/EN/t19.png
+../png/EN/stsct1.png
+../png/EN/stsct2.png
+../png/EN/stsct3.png
