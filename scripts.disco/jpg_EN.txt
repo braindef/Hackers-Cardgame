@@ -1,3 +1,1 @@
-../png/EN/a16.png
-../png/EN/m16.png
-../png/EN/t16.png
+../png/EN/t18.png
