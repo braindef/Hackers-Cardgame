@@ -1,1 +1,1 @@
-../png/EN/m40.png
+../png/EN/m30.png
