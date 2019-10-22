@@ -1,1 +1,1 @@
-../png/EN/ma8.png
+../png/EN/ma4.png
