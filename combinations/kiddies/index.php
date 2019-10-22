@@ -1,7 +1,7 @@
 
 <h1>Kiddies Cards</h1>
 Mummies maybe should look at all cards <a href="../../jpg/EN/">all the cards</a>
-the idea would be, that kids have enough prerequisites for the shitty world we live in, in the face of attack one can simply add the complete deck so that the kid that is beeing attacked can defend him-/herself against things like dt1 or a16... if <font color="green">kid is not beeing attacked</font> not the complete deck is required. <font color="red"in case you attack kids</font> or make parents attack them, or if you use dirthy things like <font color="red"sk1</font> card, then <font color="red"><b>we will distribute the complete deck</b></font>.
+the idea would be, that kids have enough prerequisites for the shitty world we live in, in the face of attack one can simply add the complete deck so that the kid that is beeing attacked can defend him-/herself against things like dt1 or a16... if <font color="green">kid is not beeing attacked</font> not the complete deck is required. <font color="red">in case you attack kids</font> or make parents attack them, or if you use dirthy things like <font color="red">sk1</font> card, then <font color="red"><b>we will distribute the complete deck</b></font>.
 <br>
 <br>
 <br>
