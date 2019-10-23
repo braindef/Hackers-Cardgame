@@ -1,1 +1,3 @@
+../png/EN/mos1.png
+../png/EN/mos2.png
 ../png/EN/mos3.png
